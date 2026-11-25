@@ -1,0 +1,1201 @@
+account_id,company_name,industry,country,employee_count,signup_date,plan
+1,Oakleaf Labs,Software,Brazil,48,2023-01-03 17:06:49,Growth
+2,Stormwell Systems,Software,Netherlands,4,2023-01-04 06:54:39,Starter
+3,Redford Supply,Retail,United Kingdom,6,2023-01-09 20:36:29,Starter
+4,Frostwater Financial,Financial Services,Brazil,16,2023-01-10 23:28:05,Growth
+5,Birchvale Industries,Manufacturing,United Kingdom,51,2023-01-17 09:06:19,Business
+6,Moonford Tutors,Education,Canada,33,2023-01-18 18:03:52,Business
+7,Brightford Transport,Logistics,France,41,2023-01-19 17:37:11,Starter
+8,Greenpoint Freight,Logistics,Ireland,16,2023-01-20 09:34:35,Starter
+9,Meadowbridge Learning,Education,United States,30,2023-01-25 19:54:55,Growth
+10,Sunwell Lending,Financial Services,United States,25,2023-01-26 01:14:36,Starter
+11,Brightvale Market,Retail,United States,29,2023-01-27 02:13:33,Growth
+12,Ironwind Capital,Financial Services,Brazil,291,2023-01-28 13:25:19,Growth
+13,Moongrove Technologies,Software,United States,3,2023-01-30 18:21:41,Starter
+14,Lakegrove Tutors,Education,United States,4,2023-01-30 23:06:27,Starter
+15,Granitevale Health,Healthcare,Germany,8,2023-02-03 10:30:03,Starter
+16,Coppergate Digital,Software,United States,18,2023-02-07 16:46:13,Growth
+17,Brightgrove Outfitters,Retail,United Kingdom,16,2023-02-07 14:01:47,Starter
+18,Meadowport Labs,Software,Germany,49,2023-02-07 15:43:29,Business
+19,Stormmont Medical,Healthcare,United States,13,2023-02-08 21:32:49,Starter
+20,Eastfield Goods,Retail,Japan,8,2023-02-09 00:30:41,Starter
+21,Riverpoint Plastics,Manufacturing,Canada,5,2023-02-17 17:24:15,Starter
+22,Hawkline Industries,Manufacturing,Japan,5,2023-02-22 07:25:42,Growth
+23,Ridgehaven Labs,Software,United Kingdom,4,2023-02-22 16:53:35,Starter
+24,Meadowhaven Wealth,Financial Services,France,15,2023-02-24 13:56:19,Starter
+25,Pinewood Logistics,Logistics,United States,71,2023-02-25 02:03:39,Growth
+26,Ironhollow Software,Software,United States,4,2023-02-27 18:39:02,Starter
+27,Copperpath Data,Software,United Kingdom,26,2023-03-01 08:15:18,Growth
+28,Riverhaven Data,Software,Canada,5,2023-03-06 01:01:15,Starter
+29,Harborhaven Care,Healthcare,United States,77,2023-03-07 20:17:28,Business
+30,Silvergrove Medical,Healthcare,United States,26,2023-03-08 04:31:47,Growth
+31,Cedarlight Financial,Financial Services,United Kingdom,16,2023-03-09 21:54:06,Starter
+32,Moonlane Systems,Software,United Kingdom,58,2023-03-12 01:17:25,Growth
+33,Lakehollow Data,Software,Netherlands,41,2023-03-13 07:18:50,Enterprise
+34,Westridge Schools,Education,United States,71,2023-03-14 18:04:40,Business
+35,Maplemont Technologies,Software,Ireland,5,2023-03-17 08:13:31,Starter
+36,Harborcrest Systems,Software,Australia,3,2023-03-20 03:30:11,Starter
+37,Frostbank Therapeutics,Healthcare,United States,92,2023-03-20 20:47:51,Business
+38,Granitehaven Stores,Retail,France,55,2023-03-21 09:21:18,Growth
+39,Ashline Systems,Software,Ireland,39,2023-03-25 12:18:19,Starter
+40,Cedarmont Systems,Software,Ireland,7,2023-03-29 10:33:34,Starter
+41,Sunleaf Components,Manufacturing,United Kingdom,33,2023-03-29 11:06:33,Business
+42,Cedarlane Technologies,Software,Brazil,3,2023-04-03 12:23:45,Starter
+43,Northpeak Digital,Software,United States,27,2023-04-05 23:11:21,Growth
+44,Highridge Home,Retail,Japan,32,2023-04-06 00:14:20,Growth
+45,Oakdale Systems,Software,United States,36,2023-04-08 00:22:19,Growth
+46,Silvergate Wealth,Financial Services,Canada,25,2023-04-08 21:02:35,Growth
+47,Bluemont Therapeutics,Healthcare,France,24,2023-04-10 14:58:04,Starter
+48,Elmwater Components,Manufacturing,Netherlands,47,2023-04-11 15:32:46,Business
+49,Ashpoint Academy,Education,Germany,24,2023-04-12 17:58:18,Starter
+50,Copperleaf Clinics,Healthcare,Germany,12,2023-04-13 15:44:37,Starter
+51,Oakvale Wealth,Financial Services,United States,53,2023-04-15 01:33:14,Growth
+52,Northbank Wealth,Financial Services,United States,16,2023-04-16 03:59:25,Growth
+53,Moonridge Plastics,Manufacturing,Japan,39,2023-04-18 01:11:32,Growth
+54,Stonestone Financial,Financial Services,Netherlands,228,2023-04-20 22:28:45,Growth
+55,Lakelane Financial,Financial Services,United Kingdom,12,2023-04-23 07:46:20,Starter
+56,Elmspring Clinics,Healthcare,Germany,201,2023-05-01 11:14:26,Enterprise
+57,Birchhill Data,Software,United States,23,2023-05-07 22:57:07,Starter
+58,Cliffpeak Capital,Financial Services,United States,16,2023-05-08 12:12:03,Starter
+59,Oakridge Software,Software,France,6,2023-05-09 16:08:43,Starter
+60,Stonelight Systems,Software,Ireland,12,2023-05-12 08:36:57,Starter
+61,Highcrest Data,Software,United States,16,2023-05-13 20:50:05,Starter
+62,Highmark Technologies,Software,United States,5,2023-05-16 16:32:37,Starter
+63,Frostside Partners,Financial Services,France,15,2023-05-16 13:06:30,Starter
+64,Redmark Stores,Retail,Japan,16,2023-05-16 05:35:31,Growth
+65,Copperline Industries,Manufacturing,Japan,218,2023-05-17 08:25:02,Business
+66,Redshore Logistics,Logistics,United Kingdom,121,2023-05-18 11:33:30,Growth
+67,Easthollow Financial,Financial Services,Germany,57,2023-05-22 15:44:20,Growth
+68,Northleaf Partners,Financial Services,Japan,98,2023-05-25 05:55:56,Growth
+69,Baypoint Distribution,Logistics,France,16,2023-06-03 21:19:05,Starter
+70,Brightbank Partners,Financial Services,United States,42,2023-06-04 21:55:30,Growth
+71,Birchridge Tutors,Education,Canada,24,2023-06-07 03:33:00,Growth
+72,Meadowwick Care,Healthcare,France,24,2023-06-07 09:06:51,Starter
+73,Meadowlane Stores,Retail,France,14,2023-06-07 12:40:52,Growth
+74,Stormhollow Lending,Financial Services,United States,136,2023-06-14 16:14:37,Enterprise
+75,Copperlight Wealth,Financial Services,Canada,281,2023-06-19 23:33:05,Enterprise
+76,Southleaf Institute,Education,United Kingdom,36,2023-06-20 16:04:09,Starter
+77,Clearbridge Market,Retail,United States,27,2023-06-23 04:45:35,Growth
+78,Westmark Plastics,Manufacturing,Germany,64,2023-06-26 09:57:28,Business
+79,Wolfspring Advisors,Financial Services,United States,364,2023-06-27 22:36:00,Business
+80,Hawkrock Couriers,Logistics,Netherlands,34,2023-06-27 16:28:05,Growth
+81,Copperlane Health,Healthcare,Canada,3,2023-06-30 19:26:03,Starter
+82,Summitbeam Software,Software,Germany,15,2023-07-03 14:23:57,Growth
+83,Ironwick Logistics,Logistics,Netherlands,3,2023-07-03 15:47:55,Starter
+84,Stormgate Digital,Software,Germany,3,2023-07-05 12:39:46,Starter
+85,Wolfmont Therapeutics,Healthcare,United States,152,2023-07-06 17:43:14,Business
+86,Maplepeak Medical,Healthcare,Japan,92,2023-07-06 03:51:02,Business
+87,Brightridge Financial,Financial Services,Brazil,8,2023-07-09 16:59:34,Starter
+88,Moonstone Advisors,Financial Services,United States,3,2023-07-09 21:36:16,Growth
+89,Ironwater Plastics,Manufacturing,Germany,96,2023-07-13 10:44:34,Business
+90,Highrock Systems,Software,Germany,10,2023-07-14 18:06:05,Starter
+91,Granitebeam Learning,Education,United States,6,2023-07-15 21:27:28,Starter
+92,Birchbank Home,Retail,Japan,11,2023-07-15 08:30:44,Growth
+93,Lakefield Systems,Software,United States,18,2023-07-17 19:33:43,Starter
+94,Pinelane Technologies,Software,France,12,2023-07-18 10:17:57,Starter
+95,Lakedale Wealth,Financial Services,United States,21,2023-07-24 14:20:36,Business
+96,Moonshore Financial,Financial Services,France,43,2023-07-24 17:48:10,Growth
+97,Harborleaf Lending,Financial Services,United States,3,2023-07-26 02:05:58,Starter
+98,Harborfern Technologies,Software,United States,6,2023-07-26 13:02:46,Starter
+99,Lakeridge Health,Healthcare,Netherlands,80,2023-07-26 14:36:46,Business
+100,Silverridge Data,Software,United States,12,2023-07-28 22:25:20,Starter
+101,Frostridge Data,Software,Canada,19,2023-07-29 03:43:36,Starter
+102,Brightline Therapeutics,Healthcare,United States,51,2023-07-29 14:44:45,Growth
+103,Summitpeak Clinics,Healthcare,United States,10,2023-07-29 22:33:08,Starter
+104,Ashbridge Clinics,Healthcare,United States,26,2023-08-01 01:25:24,Business
+105,Ridgegate Data,Software,Germany,186,2023-08-02 16:46:24,Business
+106,Cliffport Partners,Financial Services,Germany,22,2023-08-05 10:50:28,Growth
+107,Frostrock Education,Education,Australia,6,2023-08-05 11:59:42,Starter
+108,Hawkport Digital,Software,United States,59,2023-08-07 15:10:23,Growth
+109,Redlight Couriers,Logistics,United Kingdom,21,2023-08-09 10:00:14,Growth
+110,Meadowgrove Logistics,Logistics,United States,174,2023-08-10 17:19:43,Business
+111,Oakspring Medical,Healthcare,Ireland,24,2023-08-10 12:33:18,Starter
+112,Sundale Medical,Healthcare,United States,259,2023-08-11 00:27:50,Enterprise
+113,Southridge Supply,Retail,United Kingdom,15,2023-08-11 17:18:16,Growth
+114,Sunmont Health,Healthcare,Germany,23,2023-08-14 21:59:10,Starter
+115,Stormbank Manufacturing,Manufacturing,Germany,14,2023-08-15 17:27:58,Starter
+116,Baycrest Tutors,Education,United Kingdom,18,2023-08-15 21:35:41,Growth
+117,Bearspring Financial,Financial Services,Germany,5,2023-08-16 13:44:03,Starter
+118,Cedarridge Advisors,Financial Services,Japan,13,2023-08-17 02:53:35,Growth
+119,Bearhaven Education,Education,Australia,51,2023-08-23 00:37:50,Growth
+120,Eastleaf Digital,Software,Ireland,21,2023-08-24 15:50:35,Starter
+121,Moonbridge Tutors,Education,Brazil,23,2023-08-25 12:54:38,Starter
+122,Clearhaven Plastics,Manufacturing,Australia,45,2023-08-25 09:42:00,Starter
+123,Eastport Outfitters,Retail,United States,7,2023-08-26 20:32:31,Starter
+124,Redvale Industries,Manufacturing,Netherlands,66,2023-08-30 11:02:44,Growth
+125,Hawkhollow Education,Education,United Kingdom,19,2023-09-01 13:44:54,Starter
+126,Oakcrest Diagnostics,Healthcare,Germany,14,2023-09-01 18:18:23,Starter
+127,Baybrook Data,Software,United States,42,2023-09-06 19:03:21,Business
+128,Sunport Partners,Financial Services,United Kingdom,14,2023-09-07 17:56:13,Growth
+129,Mapleside Partners,Financial Services,United States,49,2023-09-13 21:53:48,Growth
+130,Meadowvale Lending,Financial Services,United States,8,2023-09-13 22:18:58,Starter
+131,Goldhill Data,Software,Germany,7,2023-09-15 15:09:02,Starter
+132,Ridgewick Technologies,Software,Australia,5,2023-09-17 23:30:10,Starter
+133,Meadowwell Software,Software,Ireland,13,2023-09-19 08:24:27,Starter
+134,Bearbank Learning,Education,United States,12,2023-09-19 20:46:39,Growth
+135,Summitwater Software,Software,United States,14,2023-09-21 03:07:02,Starter
+136,Clearshore Works,Manufacturing,Canada,32,2023-09-21 21:25:17,Growth
+137,Silverline Plastics,Manufacturing,Australia,26,2023-09-22 05:09:47,Business
+138,Westlight Market,Retail,United Kingdom,68,2023-09-26 06:05:57,Growth
+139,Riverhill Education,Education,Germany,14,2023-09-26 14:32:32,Starter
+140,Westwater Plastics,Manufacturing,Brazil,55,2023-09-27 15:54:05,Growth
+141,Copperrock Shipping,Logistics,United States,14,2023-09-28 01:12:05,Starter
+142,Hawkwater Distribution,Logistics,United States,33,2023-10-02 13:31:46,Growth
+143,Ridgebeam Care,Healthcare,Ireland,137,2023-10-02 10:20:57,Business
+144,Ashlight Outfitters,Retail,Canada,32,2023-10-03 18:59:53,Growth
+145,Harborspring Advisors,Financial Services,Australia,224,2023-10-04 10:55:51,Growth
+146,Eastfern Digital,Software,Ireland,8,2023-10-06 10:31:53,Starter
+147,Goldport Advisors,Financial Services,United States,9,2023-10-09 11:03:47,Starter
+148,Silvercrest Software,Software,Brazil,62,2023-10-09 16:57:26,Growth
+149,Moonport Stores,Retail,United States,71,2023-10-12 22:55:57,Business
+150,Harborvale Components,Manufacturing,Japan,37,2023-10-13 00:46:10,Business
+151,Birchhollow Freight,Logistics,United States,29,2023-10-13 21:31:34,Growth
+152,Silverbrook Systems,Software,United States,14,2023-10-14 00:03:57,Starter
+153,Foxlight Technologies,Software,France,18,2023-10-16 11:44:39,Growth
+154,Redwater Components,Manufacturing,France,15,2023-10-16 12:07:37,Growth
+155,Westhill Financial,Financial Services,United States,10,2023-10-20 04:46:06,Starter
+156,Bayvale Plastics,Manufacturing,United States,119,2023-10-20 17:58:24,Business
+157,Ironfern Systems,Software,Australia,100,2023-10-25 01:07:33,Business
+158,Frostspring Care,Healthcare,United States,63,2023-10-25 21:44:23,Growth
+159,Foxpath Plastics,Manufacturing,Japan,24,2023-10-25 12:26:41,Starter
+160,Northfield Labs,Software,United States,6,2023-10-26 17:45:02,Starter
+161,Granitemark Technologies,Software,France,25,2023-10-30 09:18:26,Starter
+162,Elmridge Therapeutics,Healthcare,United States,50,2023-11-01 14:57:12,Business
+163,Summitwood Academy,Education,United States,48,2023-11-01 20:03:36,Starter
+164,Silverpeak Health,Healthcare,United States,17,2023-11-04 01:02:41,Starter
+165,Clearwood Advisors,Financial Services,Germany,61,2023-11-03 21:00:17,Growth
+166,Highhill Transport,Logistics,Netherlands,77,2023-11-07 15:31:11,Growth
+167,Northlight Manufacturing,Manufacturing,Germany,21,2023-11-13 12:09:41,Starter
+168,Pinemark Stores,Retail,Canada,82,2023-11-14 14:51:30,Growth
+169,Eastline Health,Healthcare,Netherlands,12,2023-11-14 11:38:12,Growth
+170,Southlane Software,Software,United States,5,2023-11-16 18:19:11,Starter
+171,Frostwood Health,Healthcare,Ireland,24,2023-11-17 16:30:37,Growth
+172,Maplemark Labs,Software,United States,4,2023-11-18 03:07:22,Starter
+173,Lakefern Couriers,Logistics,United States,24,2023-11-18 04:29:45,Growth
+174,Riverford Technologies,Software,Japan,42,2023-11-21 08:06:07,Growth
+175,Redport Technologies,Software,Australia,17,2023-11-22 07:41:59,Starter
+176,Ashfield Fabrication,Manufacturing,United States,6,2023-11-22 22:21:32,Starter
+177,Wolfcrest Tutors,Education,France,66,2023-11-23 05:50:30,Growth
+178,Greenbank Care,Healthcare,France,30,2023-11-23 09:54:19,Growth
+179,Summitwind Logistics,Logistics,United States,93,2023-11-24 15:50:37,Business
+180,Wolfside Financial,Financial Services,Ireland,71,2023-11-26 21:02:09,Starter
+181,Copperpeak Digital,Software,Canada,22,2023-11-28 03:52:58,Starter
+182,Summitdale Learning,Education,Germany,19,2023-11-29 10:33:01,Starter
+183,Oakmark Couriers,Logistics,United Kingdom,81,2023-11-29 11:51:47,Growth
+184,Greenleaf Fabrication,Manufacturing,United States,20,2023-11-29 19:32:16,Starter
+185,Ridgeford Digital,Software,Netherlands,104,2023-11-30 13:57:48,Business
+186,Lakevale Couriers,Logistics,United States,11,2023-12-01 15:03:03,Growth
+187,Ridgecrest Plastics,Manufacturing,United States,10,2023-12-04 23:33:48,Starter
+188,Pinewell Software,Software,United Kingdom,3,2023-12-04 20:57:31,Starter
+189,Bearlight Academy,Education,United States,19,2023-12-06 17:57:49,Growth
+190,Elmleaf Care,Healthcare,United Kingdom,1236,2023-12-06 10:02:52,Enterprise
+191,Bearwind Shipping,Logistics,Australia,45,2023-12-06 02:38:48,Business
+192,Oakmont Labs,Software,United States,10,2023-12-07 01:06:02,Starter
+193,Clearpath Lending,Financial Services,Netherlands,26,2023-12-07 12:55:04,Starter
+194,Ironwell Market,Retail,Netherlands,74,2023-12-09 14:33:58,Growth
+195,Highbridge Works,Manufacturing,Germany,56,2023-12-10 10:03:01,Growth
+196,Summitgate Education,Education,United Kingdom,14,2023-12-10 22:25:24,Starter
+197,Granitebrook Shipping,Logistics,United States,15,2023-12-15 12:28:22,Starter
+198,Elmbank Diagnostics,Healthcare,Brazil,23,2023-12-16 15:30:44,Starter
+199,Ridgelight Software,Software,United Kingdom,20,2023-12-18 17:45:03,Growth
+200,Granitewell Works,Manufacturing,Canada,406,2023-12-21 19:01:12,Enterprise
+201,Ashvale Manufacturing,Manufacturing,Germany,242,2023-12-30 20:50:59,Growth
+202,Harborport Technologies,Software,United States,21,2024-01-03 16:37:42,Starter
+203,Summithollow Institute,Education,United States,4,2024-01-04 17:17:05,Starter
+204,Highbrook Labs,Software,Canada,4,2024-01-05 13:04:16,Starter
+205,Pinegrove Diagnostics,Healthcare,United States,15,2024-01-05 19:51:39,Growth
+206,Summitlane Fabrication,Manufacturing,Germany,153,2024-01-05 15:29:18,Growth
+207,Moonbank Labs,Software,Canada,10,2024-01-08 04:11:48,Growth
+208,Pineside Lending,Financial Services,Australia,163,2024-01-08 03:15:51,Growth
+209,Hawkfern Financial,Financial Services,Germany,42,2024-01-09 13:13:53,Starter
+210,Riverstone Technologies,Software,United States,45,2024-01-11 02:28:00,Growth
+211,Ashbank Fabrication,Manufacturing,Germany,29,2024-01-11 15:40:21,Enterprise
+212,Clearlight Plastics,Manufacturing,Germany,165,2024-01-12 10:41:06,Business
+213,Stormwick Digital,Software,United Kingdom,78,2024-01-12 14:06:08,Business
+214,Cedargate Wealth,Financial Services,United States,8,2024-01-12 20:42:46,Starter
+215,Eastridge Financial,Financial Services,Ireland,23,2024-01-13 13:02:52,Starter
+216,Ridgehollow Goods,Retail,Canada,9,2024-01-14 16:03:50,Starter
+217,Northlane Lending,Financial Services,United Kingdom,57,2024-01-16 08:29:34,Growth
+218,Hawkgrove Manufacturing,Manufacturing,Germany,122,2024-01-16 07:56:19,Growth
+219,Sunrock Technologies,Software,United Kingdom,8,2024-01-16 10:51:39,Growth
+220,Cedarwind Systems,Software,United States,8,2024-01-17 01:55:32,Starter
+221,Ironshore Supply,Retail,Brazil,48,2024-01-17 14:52:53,Growth
+222,Elmwood Freight,Logistics,United Kingdom,42,2024-01-19 15:48:25,Business
+223,Brightwick Care,Healthcare,United States,69,2024-01-20 03:21:15,Growth
+224,Eastlight Financial,Financial Services,United States,181,2024-01-22 04:58:24,Growth
+225,Southpath Financial,Financial Services,France,33,2024-01-24 15:13:06,Growth
+226,Sunfern Logistics,Logistics,France,3,2024-01-26 08:39:23,Starter
+227,Stardale Systems,Software,United States,45,2024-01-29 21:55:03,Business
+228,Ridgeridge Digital,Software,United States,90,2024-01-30 16:24:29,Business
+229,Highgrove Labs,Software,United States,41,2024-01-30 20:58:43,Business
+230,Hawkwood Technologies,Software,United States,35,2024-02-02 15:13:48,Business
+231,Meadowwind Financial,Financial Services,Germany,1360,2024-02-05 09:19:00,Enterprise
+232,Oakwood Software,Software,United States,14,2024-02-07 17:08:43,Growth
+233,Maplelane Software,Software,Canada,11,2024-02-07 20:45:38,Starter
+234,Harborridge Medical,Healthcare,Netherlands,12,2024-02-08 09:00:43,Starter
+235,Stormwood Fabrication,Manufacturing,Germany,35,2024-02-10 17:44:32,Growth
+236,Starlane Plastics,Manufacturing,Japan,6,2024-02-11 08:33:03,Starter
+237,Hawkpath Clinics,Healthcare,France,102,2024-02-12 13:44:46,Business
+238,Ashstone Stores,Retail,United States,40,2024-02-14 02:25:20,Growth
+239,Harbormark Systems,Software,United States,31,2024-02-16 15:04:42,Business
+240,Bayfield Financial,Financial Services,Germany,25,2024-02-16 13:10:37,Enterprise
+241,Bayport Supply,Retail,Canada,17,2024-02-20 17:29:11,Starter
+242,Bayspring Tutors,Education,Australia,16,2024-02-20 04:43:31,Starter
+243,Sunspring Diagnostics,Healthcare,United States,333,2024-02-21 13:17:48,Enterprise
+244,Redrock Systems,Software,United States,20,2024-02-23 17:08:57,Growth
+245,Oakshore Academy,Education,Netherlands,14,2024-02-26 07:44:21,Growth
+246,Riverspring Labs,Software,United States,10,2024-02-27 14:44:32,Starter
+247,Cedarport Software,Software,United States,5,2024-02-28 09:19:56,Starter
+248,Copperwell Lending,Financial Services,Netherlands,350,2024-02-28 08:53:03,Enterprise
+249,Silverwind Advisors,Financial Services,Australia,60,2024-02-28 04:19:34,Business
+250,Meadowpoint Fabrication,Manufacturing,Japan,267,2024-02-29 01:52:24,Business
+251,Birchford Technologies,Software,United States,53,2024-03-01 23:23:28,Growth
+252,Oakpath Health,Healthcare,United States,37,2024-03-06 00:16:54,Business
+253,Bearwater Schools,Education,United States,74,2024-03-07 03:09:18,Growth
+254,Wolfshore Therapeutics,Healthcare,United States,33,2024-03-07 18:44:15,Growth
+255,Elmcrest Plastics,Manufacturing,Canada,143,2024-03-07 22:44:14,Business
+256,Pinerock Digital,Software,United Kingdom,3,2024-03-08 09:22:16,Starter
+257,Starbridge Works,Manufacturing,Brazil,57,2024-03-08 21:46:23,Growth
+258,Southbrook Advisors,Financial Services,United States,80,2024-03-13 18:47:07,Enterprise
+259,Northport Technologies,Software,United States,11,2024-03-14 14:51:09,Starter
+260,Birchwater Clinics,Healthcare,Canada,121,2024-03-15 14:09:43,Business
+261,Ridgerock Data,Software,United States,57,2024-03-16 01:21:20,Starter
+262,Bluewater Learning,Education,United States,23,2024-03-16 02:03:13,Growth
+263,Ironrock Manufacturing,Manufacturing,Canada,23,2024-03-16 20:42:29,Starter
+264,Baymark Systems,Software,United States,78,2024-03-18 15:27:09,Growth
+265,Stormside Partners,Financial Services,United States,104,2024-03-19 23:59:46,Business
+266,Bluebrook Digital,Software,Canada,26,2024-03-20 20:33:37,Growth
+267,Summitline Technologies,Software,Germany,18,2024-03-20 15:05:38,Growth
+268,Cedarleaf Software,Software,United Kingdom,20,2024-03-21 13:07:16,Growth
+269,Summitford Capital,Financial Services,Netherlands,399,2024-03-21 13:14:51,Business
+270,Moonwind Therapeutics,Healthcare,Germany,73,2024-03-21 17:50:51,Growth
+271,Meadowside Stores,Retail,United States,13,2024-03-22 22:13:59,Growth
+272,Bayhaven Advisors,Financial Services,Australia,6,2024-03-25 01:01:03,Starter
+273,Goldrock Labs,Software,France,6,2024-03-25 12:59:50,Starter
+274,Harborlane Systems,Software,United States,23,2024-03-28 13:35:42,Starter
+275,Southstone Data,Software,United Kingdom,6,2024-03-28 20:16:53,Starter
+276,Summitstone Health,Healthcare,United States,7,2024-04-01 18:01:50,Starter
+277,Starmont Advisors,Financial Services,United States,52,2024-04-01 22:38:11,Growth
+278,Harborstone Therapeutics,Healthcare,United States,85,2024-04-02 18:15:53,Business
+279,Bearvale Schools,Education,United States,117,2024-04-02 21:56:07,Enterprise
+280,Sungate Care,Healthcare,Canada,42,2024-04-03 21:23:28,Starter
+281,Stormwind Diagnostics,Healthcare,United States,21,2024-04-03 23:17:24,Growth
+282,Riverleaf Market,Retail,United Kingdom,31,2024-04-04 17:03:10,Growth
+283,Southbridge Tutors,Education,United States,5,2024-04-05 16:55:58,Starter
+284,Highdale Labs,Software,France,17,2024-04-05 12:36:26,Starter
+285,Stonewind Therapeutics,Healthcare,United States,8,2024-04-05 21:47:09,Growth
+286,Starpath Labs,Software,Canada,7,2024-04-07 18:59:46,Growth
+287,Elmside Data,Software,Ireland,6,2024-04-09 14:00:28,Starter
+288,Frostbeam Transport,Logistics,Netherlands,20,2024-04-09 14:34:05,Business
+289,Meadowleaf Labs,Software,Germany,3,2024-04-10 15:52:47,Growth
+290,Bayleaf Financial,Financial Services,United States,12,2024-04-11 03:00:48,Starter
+291,Pinelight Clinics,Healthcare,Germany,25,2024-04-11 15:36:38,Starter
+292,Stonedale Stores,Retail,United Kingdom,13,2024-04-17 10:06:45,Growth
+293,Ironbeam Academy,Education,United States,13,2024-04-17 15:09:10,Starter
+294,Wolfbank Supply,Retail,Ireland,18,2024-04-17 16:12:41,Starter
+295,Bluepoint Software,Software,United States,3,2024-04-18 17:01:31,Starter
+296,Mapledale Outfitters,Retail,Japan,33,2024-04-20 03:24:14,Growth
+297,Harborford Labs,Software,Netherlands,7,2024-04-30 14:02:46,Starter
+298,Starbeam Tutors,Education,Australia,3,2024-05-01 00:12:57,Starter
+299,Riverwater Industries,Manufacturing,Canada,441,2024-05-01 22:24:36,Enterprise
+300,Elmford Schools,Education,Canada,49,2024-05-02 23:58:13,Growth
+301,Ironhill Data,Software,Ireland,7,2024-05-04 14:13:12,Growth
+302,Eastgate Couriers,Logistics,Netherlands,10,2024-05-06 08:23:05,Starter
+303,Riverpath Digital,Software,Brazil,16,2024-05-07 20:37:29,Growth
+304,Greenhollow Health,Healthcare,Australia,3,2024-05-07 12:10:05,Starter
+305,Clearport Plastics,Manufacturing,Ireland,18,2024-05-08 15:16:05,Growth
+306,Northshore Market,Retail,Australia,28,2024-05-08 06:14:30,Business
+307,Eastcrest Schools,Education,Canada,39,2024-05-10 18:53:05,Business
+308,Greenwind Capital,Financial Services,Canada,111,2024-05-10 23:07:40,Enterprise
+309,Southvale Software,Software,France,11,2024-05-14 10:10:55,Growth
+310,Baywind Fabrication,Manufacturing,Netherlands,22,2024-05-14 17:40:59,Starter
+311,Harborwick Partners,Financial Services,Australia,10,2024-05-15 21:29:11,Starter
+312,Redpeak Health,Healthcare,Germany,44,2024-05-17 07:12:10,Growth
+313,Granitefern Outfitters,Retail,France,15,2024-05-17 07:50:48,Starter
+314,Riverbridge Software,Software,Brazil,21,2024-05-18 08:57:21,Starter
+315,Hawkleaf Medical,Healthcare,Australia,75,2024-05-20 05:16:37,Starter
+316,Granitepath Fabrication,Manufacturing,France,69,2024-05-21 06:49:38,Starter
+317,Cedarspring Diagnostics,Healthcare,United States,15,2024-05-22 16:23:02,Starter
+318,Maplelight Data,Software,United States,28,2024-05-24 00:03:18,Growth
+319,Sunwind Labs,Software,Germany,48,2024-05-24 10:49:30,Business
+320,Cedarvale Diagnostics,Healthcare,United States,29,2024-05-27 18:54:58,Business
+321,Southwick Financial,Financial Services,United States,12,2024-05-28 08:50:00,Growth
+322,Riverdale Works,Manufacturing,France,33,2024-05-29 15:59:32,Growth
+323,Greenfield Wealth,Financial Services,Canada,21,2024-05-30 00:39:26,Starter
+324,Meadowwater Lending,Financial Services,Ireland,43,2024-05-31 13:57:39,Business
+325,Goldgate Health,Healthcare,Canada,11,2024-06-02 02:08:33,Starter
+326,Maplewood Capital,Financial Services,United Kingdom,45,2024-06-03 14:06:49,Business
+327,Greenport Systems,Software,United States,20,2024-06-05 21:45:36,Growth
+328,Lakespring Industries,Manufacturing,Netherlands,77,2024-06-06 02:19:58,Growth
+329,Brightpath Diagnostics,Healthcare,United States,6,2024-06-06 15:36:07,Starter
+330,Wolfhaven Tutors,Education,United States,15,2024-06-06 23:59:42,Starter
+331,Brighthaven Education,Education,Canada,3,2024-06-08 12:36:52,Starter
+332,Highfield Partners,Financial Services,Australia,27,2024-06-11 11:38:26,Starter
+333,Silverfern Components,Manufacturing,Brazil,117,2024-06-12 13:55:35,Business
+334,Eastshore Lending,Financial Services,United States,142,2024-06-14 18:24:24,Growth
+335,Redbeam Care,Healthcare,Japan,151,2024-06-17 07:58:01,Business
+336,Birchlight Components,Manufacturing,United States,4,2024-06-18 04:40:32,Starter
+337,Lakeport Works,Manufacturing,Germany,106,2024-06-18 14:23:06,Business
+338,Westshore Labs,Software,Brazil,12,2024-06-18 19:14:33,Starter
+339,Frosthollow Outfitters,Retail,Australia,11,2024-06-20 16:52:55,Growth
+340,Riverridge Digital,Software,United States,14,2024-06-23 16:50:53,Starter
+341,Birchdale Works,Manufacturing,Germany,117,2024-06-24 10:52:38,Business
+342,Stonevale Plastics,Manufacturing,United States,46,2024-06-24 17:28:17,Growth
+343,Bearpeak Technologies,Software,United States,66,2024-06-24 18:55:02,Growth
+344,Beargrove Market,Retail,Canada,27,2024-06-25 08:59:36,Growth
+345,Hawkshore Health,Healthcare,United States,10,2024-06-25 22:15:01,Starter
+346,Starwater Digital,Software,Canada,9,2024-06-26 19:34:32,Growth
+347,Moonline Outfitters,Retail,United Kingdom,11,2024-06-27 11:43:50,Growth
+348,Bluebeam Home,Retail,Germany,33,2024-06-28 15:17:51,Business
+349,Maplegrove Logistics,Logistics,United States,43,2024-06-28 23:50:13,Business
+350,Ironpeak Logistics,Logistics,United States,237,2024-07-02 14:45:35,Business
+351,Northbridge Lending,Financial Services,United Kingdom,29,2024-07-02 11:03:26,Growth
+352,Summitspring Works,Manufacturing,United States,228,2024-07-04 02:18:18,Growth
+353,Coppervale Works,Manufacturing,United States,145,2024-07-04 19:25:44,Growth
+354,Cleargrove Systems,Software,United States,10,2024-07-07 21:16:48,Growth
+355,Northspring Works,Manufacturing,United States,59,2024-07-11 17:38:18,Growth
+356,Bearridge Software,Software,United States,5,2024-07-12 22:32:07,Starter
+357,Wolfwater Therapeutics,Healthcare,United States,25,2024-07-13 19:18:46,Starter
+358,Summitport Data,Software,United Kingdom,15,2024-07-15 14:54:08,Starter
+359,Foxhaven Lending,Financial Services,Australia,70,2024-07-15 09:16:54,Starter
+360,Birchwell Works,Manufacturing,United States,62,2024-07-17 00:22:13,Growth
+361,Beardale Outfitters,Retail,Canada,85,2024-07-17 20:19:49,Business
+362,Elmhill Software,Software,United States,19,2024-07-18 03:50:35,Starter
+363,Stonewell Capital,Financial Services,United States,6,2024-07-18 21:53:23,Starter
+364,Baybeam Labs,Software,Canada,43,2024-07-18 20:33:54,Growth
+365,Starwood Digital,Software,Canada,8,2024-07-19 17:13:57,Starter
+366,Starpoint Wealth,Financial Services,United States,76,2024-07-19 20:53:48,Business
+367,Bluedale Advisors,Financial Services,United States,13,2024-07-20 03:07:24,Starter
+368,Maplewell Labs,Software,Brazil,20,2024-07-23 12:46:10,Growth
+369,Wolfrock Software,Software,Australia,6,2024-07-23 04:46:48,Starter
+370,Elmvale Digital,Software,Canada,25,2024-07-26 21:09:36,Growth
+371,Westpeak Clinics,Healthcare,Japan,16,2024-07-29 07:12:17,Growth
+372,Foxport Wealth,Financial Services,United States,45,2024-07-30 02:44:02,Growth
+373,Pinegate Plastics,Manufacturing,Netherlands,12,2024-07-29 21:17:17,Growth
+374,Cliffmont Medical,Healthcare,Canada,13,2024-07-30 16:39:11,Starter
+375,Greenmont Manufacturing,Manufacturing,France,73,2024-07-30 11:43:48,Growth
+376,Clearline Medical,Healthcare,Japan,21,2024-07-30 07:54:47,Starter
+377,Goldvale Manufacturing,Manufacturing,Brazil,76,2024-07-31 13:58:13,Business
+378,Graniterock Shipping,Logistics,Brazil,19,2024-07-31 16:49:32,Starter
+379,Pineport Supply,Retail,United States,160,2024-08-02 00:45:23,Growth
+380,Highlight Technologies,Software,Canada,7,2024-08-02 14:19:37,Growth
+381,Southwell Medical,Healthcare,United Kingdom,27,2024-08-03 15:00:19,Growth
+382,Lakeshore Software,Software,Australia,30,2024-08-05 01:47:33,Starter
+383,Sunhill Advisors,Financial Services,United States,38,2024-08-05 19:08:42,Growth
+384,Ironbank Industries,Manufacturing,Australia,25,2024-08-05 05:49:20,Starter
+385,Maplecrest Education,Education,Australia,42,2024-08-05 10:53:54,Starter
+386,Redwind Shipping,Logistics,Brazil,37,2024-08-06 12:59:48,Growth
+387,Pinevale Capital,Financial Services,United Kingdom,77,2024-08-07 22:16:18,Growth
+388,Granitecrest Data,Software,United States,5,2024-08-09 14:15:03,Starter
+389,Bearhollow Labs,Software,Germany,100,2024-08-09 13:10:35,Business
+390,Redspring Outfitters,Retail,United States,41,2024-08-10 21:11:27,Growth
+391,Highwell Care,Healthcare,United States,133,2024-08-12 23:35:47,Business
+392,Elmfern Systems,Software,Canada,29,2024-08-13 03:17:17,Growth
+393,Blueridge Diagnostics,Healthcare,Canada,8,2024-08-13 15:25:26,Starter
+394,Cliffhaven Systems,Software,United Kingdom,6,2024-08-16 22:46:48,Starter
+395,Lakeline Shipping,Logistics,Germany,63,2024-08-21 20:39:50,Growth
+396,Silverhollow Couriers,Logistics,United Kingdom,41,2024-08-21 23:14:24,Growth
+397,Ridgevale Software,Software,Germany,50,2024-08-23 09:07:11,Growth
+398,Goldhollow Therapeutics,Healthcare,Netherlands,60,2024-08-25 08:19:50,Growth
+399,Meadowpeak Medical,Healthcare,United States,28,2024-08-26 05:41:57,Growth
+400,Sunstone Care,Healthcare,United States,87,2024-08-26 17:36:24,Business
+401,Ashdale Goods,Retail,United Kingdom,7,2024-08-27 05:41:13,Starter
+402,Stonewick Transport,Logistics,Australia,20,2024-08-27 05:02:31,Growth
+403,Southdale Medical,Healthcare,Japan,16,2024-08-27 05:25:21,Growth
+404,Starford Technologies,Software,Japan,25,2024-08-27 06:50:36,Starter
+405,Bearmont Stores,Retail,United States,35,2024-08-28 14:10:56,Business
+406,Silverside Wealth,Financial Services,Japan,27,2024-08-28 07:29:19,Business
+407,Cliffmark Manufacturing,Manufacturing,United States,112,2024-08-29 16:16:23,Enterprise
+408,Ironspring Systems,Software,Netherlands,83,2024-08-29 12:23:47,Business
+409,Starbank Goods,Retail,France,16,2024-08-30 12:52:56,Starter
+410,Pinefield Academy,Education,Netherlands,13,2024-08-31 11:32:24,Starter
+411,Baygate Labs,Software,United States,29,2024-09-02 14:01:47,Growth
+412,Elmmont Schools,Education,United Kingdom,73,2024-09-03 10:54:12,Growth
+413,Goldwater Shipping,Logistics,Japan,28,2024-09-04 08:48:33,Growth
+414,Lakeleaf Shipping,Logistics,United Kingdom,88,2024-09-06 14:03:10,Business
+415,Northgrove Digital,Software,Canada,25,2024-09-08 15:10:37,Starter
+416,Westrock Care,Healthcare,Canada,44,2024-09-09 21:57:03,Business
+417,Brightlane Fabrication,Manufacturing,Ireland,60,2024-09-10 16:29:31,Business
+418,Copperbank Manufacturing,Manufacturing,United Kingdom,94,2024-09-10 19:18:27,Growth
+419,Foxwind Digital,Software,France,41,2024-09-11 14:32:50,Growth
+420,Greenlane Systems,Software,United Kingdom,15,2024-09-12 08:28:55,Starter
+421,Foxbrook Health,Healthcare,Germany,22,2024-09-12 13:57:08,Starter
+422,Copperbridge Labs,Software,United States,76,2024-09-12 20:26:37,Starter
+423,Graniteline Care,Healthcare,France,36,2024-09-12 14:32:15,Growth
+424,Bluevale Manufacturing,Manufacturing,Canada,8,2024-09-13 16:14:28,Growth
+425,Northwood Software,Software,United States,30,2024-09-13 22:09:19,Growth
+426,Cedarbridge Medical,Healthcare,United States,61,2024-09-16 22:56:31,Growth
+427,Foxdale Home,Retail,United States,23,2024-09-17 05:18:39,Growth
+428,Silverbeam Manufacturing,Manufacturing,United States,91,2024-09-18 18:11:03,Business
+429,Frostfield Systems,Software,Japan,14,2024-09-18 07:16:03,Starter
+430,Coppershore Digital,Software,Japan,4,2024-09-19 11:16:42,Growth
+431,Goldhaven Stores,Retail,United States,50,2024-09-20 16:47:32,Growth
+432,Summitpath Financial,Financial Services,Ireland,31,2024-09-23 09:48:41,Business
+433,Elmgate Technologies,Software,United States,27,2024-09-23 23:12:10,Growth
+434,Easthaven Capital,Financial Services,United States,11,2024-09-25 19:49:38,Growth
+435,Birchhaven Transport,Logistics,Netherlands,23,2024-09-26 11:07:06,Starter
+436,Stoneford Technologies,Software,Australia,13,2024-09-28 06:40:04,Growth
+437,Elmfield Stores,Retail,United Kingdom,47,2024-10-01 09:31:43,Business
+438,Sunlight Digital,Software,Germany,85,2024-10-01 09:40:23,Enterprise
+439,Bluewind Partners,Financial Services,United States,66,2024-10-02 19:22:51,Business
+440,Eastbeam Systems,Software,United States,22,2024-10-03 15:18:45,Starter
+441,Starside Data,Software,United States,4,2024-10-04 05:45:49,Starter
+442,Riverwood Couriers,Logistics,United States,83,2024-10-04 16:15:57,Business
+443,Bearfern Wealth,Financial Services,Canada,54,2024-10-04 19:12:14,Growth
+444,Summithill Capital,Financial Services,United States,56,2024-10-05 00:09:13,Business
+445,Hawkpoint Market,Retail,France,214,2024-10-09 10:12:13,Business
+446,Foxford Systems,Software,United Kingdom,35,2024-10-10 15:13:35,Business
+447,Ironline Advisors,Financial Services,Australia,31,2024-10-10 09:08:09,Growth
+448,Foxfield Software,Software,France,42,2024-10-10 17:57:52,Growth
+449,Bayfern Health,Healthcare,United Kingdom,65,2024-10-11 10:27:13,Growth
+450,Elmbrook Industries,Manufacturing,Brazil,195,2024-10-11 17:58:58,Business
+451,Greenwick Clinics,Healthcare,Netherlands,130,2024-10-11 15:17:34,Business
+452,Summitfern Diagnostics,Healthcare,United States,51,2024-10-12 17:29:08,Growth
+453,Bearpath Financial,Financial Services,United States,3,2024-10-15 02:25:49,Starter
+454,Cedarside Labs,Software,Japan,24,2024-10-15 00:21:16,Starter
+455,Wolfstone Diagnostics,Healthcare,Netherlands,9,2024-10-15 14:00:37,Starter
+456,Foxgate Systems,Software,France,14,2024-10-16 10:22:52,Growth
+457,Bluegate Transport,Logistics,United States,113,2024-10-16 17:39:09,Business
+458,Foxleaf Learning,Education,Canada,16,2024-10-16 20:22:46,Growth
+459,Highgate Education,Education,United States,9,2024-10-16 21:05:06,Starter
+460,Stonerock Outfitters,Retail,Brazil,16,2024-10-17 17:29:13,Starter
+461,Clifffield Systems,Software,United States,9,2024-10-19 19:23:12,Starter
+462,Oakwell Health,Healthcare,United States,51,2024-10-22 15:12:25,Business
+463,Greenwood Software,Software,United States,3,2024-10-23 19:00:03,Starter
+464,Goldbridge Systems,Software,United States,3,2024-10-23 20:40:18,Starter
+465,Maplebeam Data,Software,Canada,5,2024-10-24 00:09:42,Starter
+466,Mapleridge Learning,Education,Ireland,34,2024-10-24 11:18:13,Starter
+467,Starstone Health,Healthcare,United States,7,2024-10-24 20:31:09,Starter
+468,Westspring Goods,Retail,United States,7,2024-10-24 19:43:09,Starter
+469,Pineline Lending,Financial Services,United States,9,2024-10-24 20:53:25,Starter
+470,Brightbrook Stores,Retail,United States,8,2024-10-25 01:30:11,Starter
+471,Stonefern Systems,Software,United States,25,2024-10-26 03:55:43,Growth
+472,Highside Labs,Software,Canada,8,2024-10-28 18:52:23,Starter
+473,Copperwater Digital,Software,United States,32,2024-10-30 16:01:25,Growth
+474,Ridgemark Digital,Software,United States,19,2024-10-30 16:06:18,Growth
+475,Blueford Schools,Education,United Kingdom,9,2024-10-30 14:19:00,Starter
+476,Ashwater Wealth,Financial Services,Canada,61,2024-10-31 17:42:59,Growth
+477,Granitefield Technologies,Software,Netherlands,22,2024-10-31 12:31:41,Starter
+478,Redbank Works,Manufacturing,Canada,126,2024-10-31 22:00:43,Business
+479,Starhaven Components,Manufacturing,Germany,23,2024-11-03 19:59:31,Starter
+480,Pinebridge Medical,Healthcare,Brazil,62,2024-11-04 15:00:01,Growth
+481,Oakpeak Works,Manufacturing,Ireland,100,2024-11-05 11:04:45,Business
+482,Maplefield Components,Manufacturing,United States,38,2024-11-06 00:46:42,Growth
+483,Riverlane Institute,Education,Germany,24,2024-11-05 17:24:06,Starter
+484,Sunbank Systems,Software,United States,3,2024-11-06 04:21:49,Starter
+485,Oakwick Health,Healthcare,Netherlands,20,2024-11-07 09:45:02,Growth
+486,Wolfvale Goods,Retail,United States,68,2024-11-08 17:24:56,Business
+487,Maplestone Data,Software,United States,4,2024-11-08 17:37:42,Starter
+488,Wolffield Medical,Healthcare,United Kingdom,22,2024-11-10 10:58:26,Starter
+489,Sunhaven Tutors,Education,Germany,7,2024-11-11 01:15:40,Starter
+490,Greenbrook Components,Manufacturing,United States,11,2024-11-11 13:14:53,Starter
+491,Ashcrest Medical,Healthcare,Canada,92,2024-11-11 16:49:03,Business
+492,Brightleaf Capital,Financial Services,Ireland,54,2024-11-11 18:52:12,Growth
+493,Granitewind Digital,Software,Canada,9,2024-11-12 02:23:46,Starter
+494,Frostbridge Software,Software,Ireland,8,2024-11-12 12:44:16,Growth
+495,Hawkfield Digital,Software,Netherlands,19,2024-11-13 15:59:25,Growth
+496,Starspring Data,Software,Canada,203,2024-11-14 16:24:46,Growth
+497,Riverbrook Learning,Education,Brazil,13,2024-11-14 18:03:54,Starter
+498,Moonrock Home,Retail,United States,79,2024-11-14 23:29:03,Business
+499,Stonepeak Systems,Software,Netherlands,27,2024-11-17 12:51:49,Growth
+500,Eastvale Clinics,Healthcare,United States,431,2024-11-18 16:43:05,Business
+501,Foxwater Home,Retail,Australia,150,2024-11-18 03:26:46,Business
+502,Foxstone Market,Retail,Canada,8,2024-11-18 19:26:48,Starter
+503,Hawkwell Manufacturing,Manufacturing,United States,13,2024-11-18 21:23:32,Growth
+504,Greenhaven Stores,Retail,Ireland,73,2024-11-19 10:41:17,Growth
+505,Bearhill Financial,Financial Services,United States,36,2024-11-19 23:41:32,Business
+506,Cliffside Learning,Education,United Kingdom,14,2024-11-20 06:34:42,Growth
+507,Elmpoint Clinics,Healthcare,Germany,35,2024-11-20 13:08:24,Growth
+508,Pinehaven Education,Education,Ireland,13,2024-11-20 16:11:08,Starter
+509,Ironford Institute,Education,United States,20,2024-11-22 00:03:29,Starter
+510,Clearford Manufacturing,Manufacturing,Japan,81,2024-11-21 22:42:04,Growth
+511,Greenridge Outfitters,Retail,United States,16,2024-11-22 17:28:59,Growth
+512,Southwind Systems,Software,Australia,33,2024-11-22 20:31:13,Growth
+513,Bluewood Labs,Software,United States,10,2024-11-26 00:04:09,Growth
+514,Maplerock Advisors,Financial Services,Brazil,26,2024-11-27 15:14:27,Growth
+515,Highpath Stores,Retail,United States,9,2024-11-27 23:54:00,Starter
+516,Ashgrove Digital,Software,Germany,6,2024-11-28 02:25:44,Starter
+517,Ridgebrook Wealth,Financial Services,United Kingdom,26,2024-11-29 08:23:55,Growth
+518,Stonecrest Diagnostics,Healthcare,United States,43,2024-11-30 02:13:27,Growth
+519,Ridgegrove Clinics,Healthcare,Netherlands,45,2024-11-30 05:07:14,Growth
+520,Sunwater Lending,Financial Services,United Kingdom,71,2024-12-01 09:10:13,Growth
+521,Southbank Capital,Financial Services,Brazil,31,2024-12-01 17:03:41,Growth
+522,Northcrest Supply,Retail,United States,219,2024-12-03 22:17:44,Starter
+523,Granitewood Digital,Software,United States,6,2024-12-06 18:17:48,Starter
+524,Copperwind Data,Software,United States,28,2024-12-08 14:35:03,Starter
+525,Hawkspring Health,Healthcare,Canada,42,2024-12-09 17:24:38,Enterprise
+526,Maplespring Works,Manufacturing,United States,64,2024-12-09 22:52:19,Growth
+527,Maplehaven Fabrication,Manufacturing,Canada,55,2024-12-10 13:34:08,Growth
+528,Cedarstone Education,Education,United States,51,2024-12-10 14:43:22,Business
+529,Elmline Freight,Logistics,Netherlands,190,2024-12-10 09:57:46,Business
+530,Highwick Lending,Financial Services,United Kingdom,9,2024-12-11 22:21:02,Starter
+531,Elmbridge Technologies,Software,United States,6,2024-12-13 00:54:56,Starter
+532,Hawkbrook Therapeutics,Healthcare,Canada,46,2024-12-13 03:42:21,Growth
+533,Meadowcrest Systems,Software,Japan,9,2024-12-16 09:54:27,Starter
+534,Starpeak Lending,Financial Services,Australia,25,2024-12-16 11:18:40,Starter
+535,Stonegrove Therapeutics,Healthcare,United States,175,2024-12-17 15:56:58,Business
+536,Goldpath Technologies,Software,France,34,2024-12-17 18:43:49,Growth
+537,Elmwind Wealth,Financial Services,United States,29,2024-12-18 02:16:54,Growth
+538,Ashhollow Health,Healthcare,Germany,8,2024-12-17 22:16:40,Starter
+539,Bearpoint Digital,Software,United States,92,2024-12-18 21:26:26,Business
+540,Lakelight Systems,Software,United States,29,2024-12-18 21:49:30,Business
+541,Starbrook Therapeutics,Healthcare,France,27,2024-12-19 08:05:33,Business
+542,Cliffstone Capital,Financial Services,United Kingdom,98,2024-12-19 09:23:59,Business
+543,Stormbeam Works,Manufacturing,Canada,195,2024-12-19 16:25:19,Business
+544,Frostcrest Plastics,Manufacturing,United Kingdom,196,2024-12-19 11:53:08,Enterprise
+545,Lakebridge Wealth,Financial Services,Australia,101,2024-12-19 04:49:43,Enterprise
+546,Stonefield Technologies,Software,United States,7,2024-12-19 23:40:19,Growth
+547,Lakewood Education,Education,Canada,4,2024-12-20 15:43:39,Growth
+548,Bluehill Industries,Manufacturing,Germany,95,2024-12-20 10:09:58,Business
+549,Stormbridge Software,Software,United States,68,2024-12-20 21:08:21,Growth
+550,Harborhollow Capital,Financial Services,Germany,20,2024-12-21 09:09:18,Growth
+551,Ironside Works,Manufacturing,United Kingdom,63,2024-12-23 14:36:49,Business
+552,Pinestone Diagnostics,Healthcare,Brazil,28,2024-12-24 12:42:55,Starter
+553,Blueshore Plastics,Manufacturing,United Kingdom,11,2024-12-26 11:24:27,Growth
+554,Southbeam Lending,Financial Services,Japan,35,2024-12-27 04:26:56,Growth
+555,Highspring Software,Software,United States,3,2024-12-28 16:51:27,Starter
+556,Copperhill Financial,Financial Services,Netherlands,11,2024-12-29 16:42:16,Growth
+557,Pineleaf Wealth,Financial Services,United States,32,2024-12-30 22:21:19,Growth
+558,Ashmark Components,Manufacturing,Germany,42,2024-12-30 13:29:19,Growth
+559,Granitegrove Fabrication,Manufacturing,United States,96,2024-12-31 16:25:35,Business
+560,Stoneridge Financial,Financial Services,United Kingdom,53,2024-12-31 13:17:23,Business
+561,Maplegate Components,Manufacturing,Netherlands,147,2024-12-31 13:23:28,Business
+562,Westbridge Systems,Software,United States,3,2025-01-01 00:30:05,Growth
+563,Stonebank Digital,Software,United States,12,2025-01-02 17:18:02,Starter
+564,Eastrock Manufacturing,Manufacturing,Germany,203,2025-01-02 10:27:31,Enterprise
+565,Meadowwood Outfitters,Retail,United States,11,2025-01-02 20:11:51,Growth
+566,Greenwater Lending,Financial Services,Japan,15,2025-01-02 09:45:13,Growth
+567,Meadowgate Shipping,Logistics,United States,6,2025-01-03 00:18:36,Starter
+568,Starcrest Advisors,Financial Services,United Kingdom,27,2025-01-03 13:39:03,Starter
+569,Birchwood Data,Software,Germany,10,2025-01-04 10:48:33,Starter
+570,Baydale Software,Software,France,19,2025-01-06 15:21:05,Growth
+571,Harborgrove Education,Education,United Kingdom,3,2025-01-06 17:24:37,Starter
+572,Brightwater Data,Software,United States,22,2025-01-07 03:23:14,Growth
+573,Southhaven Goods,Retail,France,26,2025-01-07 14:08:09,Growth
+574,Cliffwell Software,Software,France,23,2025-01-07 17:04:29,Starter
+575,Hawkwind Labs,Software,United States,19,2025-01-12 13:40:04,Starter
+576,Cliffgrove Partners,Financial Services,Australia,109,2025-01-14 06:34:50,Business
+577,Starhollow Shipping,Logistics,Germany,46,2025-01-15 07:49:40,Growth
+578,Copperhaven Systems,Software,France,33,2025-01-15 14:17:54,Growth
+579,Frostdale Financial,Financial Services,United Kingdom,113,2025-01-15 22:47:24,Growth
+580,Goldbank Advisors,Financial Services,Germany,65,2025-01-16 10:18:14,Growth
+581,Harborpath Software,Software,Ireland,17,2025-01-16 14:28:33,Starter
+582,Bluecrest Diagnostics,Healthcare,Canada,106,2025-01-17 00:37:45,Growth
+583,Bearwood Technologies,Software,Germany,3,2025-01-16 16:37:05,Starter
+584,Eastmark Clinics,Healthcare,United States,90,2025-01-20 15:07:54,Business
+585,Northline Institute,Education,United States,37,2025-01-21 04:17:15,Growth
+586,Hawkside Manufacturing,Manufacturing,Germany,38,2025-01-21 08:43:44,Growth
+587,Meadowhollow Lending,Financial Services,France,27,2025-01-21 12:54:11,Business
+588,Stonespring Advisors,Financial Services,United States,127,2025-01-23 00:31:04,Business
+589,Goldstone Technologies,Software,United States,19,2025-01-23 19:19:15,Starter
+590,Stormlane Data,Software,Germany,8,2025-01-23 16:16:51,Starter
+591,Harborwind Systems,Software,United States,15,2025-01-24 14:58:28,Starter
+592,Stoneleaf Supply,Retail,Canada,27,2025-01-27 19:28:49,Growth
+593,Wolfhollow Industries,Manufacturing,United Kingdom,78,2025-01-27 13:18:12,Business
+594,Bluemark Manufacturing,Manufacturing,United States,116,2025-01-27 19:36:41,Business
+595,Summitwick Supply,Retail,United States,8,2025-01-27 21:37:08,Starter
+596,Copperstone Health,Healthcare,United States,12,2025-01-29 14:29:33,Growth
+597,Southgrove Medical,Healthcare,Germany,60,2025-01-29 15:41:34,Business
+598,Southgate Diagnostics,Healthcare,United States,3,2025-01-30 12:48:22,Starter
+599,Cedarwell Technologies,Software,United States,3,2025-01-30 18:38:11,Starter
+600,Southspring Industries,Manufacturing,Japan,121,2025-01-30 05:04:24,Business
+601,Greenside Shipping,Logistics,Australia,154,2025-01-31 02:27:17,Business
+602,Ridgeshore Wealth,Financial Services,United States,86,2025-01-31 21:27:31,Business
+603,Cedargrove Capital,Financial Services,Australia,142,2025-01-31 08:46:28,Growth
+604,Ashford Distribution,Logistics,Brazil,38,2025-02-02 11:34:41,Growth
+605,Ridgewell Home,Retail,United States,280,2025-02-02 14:38:36,Business
+606,Maplebridge Digital,Software,France,50,2025-02-03 09:54:59,Growth
+607,Sunbrook Technologies,Software,Ireland,8,2025-02-03 16:52:26,Starter
+608,Baypeak Technologies,Software,United States,9,2025-02-03 22:59:33,Starter
+609,Stormcrest Manufacturing,Manufacturing,France,30,2025-02-04 12:32:14,Business
+610,Foxridge Labs,Software,Netherlands,3,2025-02-04 21:05:58,Starter
+611,Stonemont Capital,Financial Services,Canada,123,2025-02-06 18:28:47,Growth
+612,Silvermont Plastics,Manufacturing,Brazil,261,2025-02-08 19:36:56,Enterprise
+613,Bearshore Advisors,Financial Services,United States,346,2025-02-10 18:31:22,Enterprise
+614,Northhill Schools,Education,Australia,25,2025-02-10 11:51:06,Growth
+615,Stonehill Couriers,Logistics,United States,24,2025-02-11 12:36:12,Starter
+616,Oakstone Wealth,Financial Services,United States,130,2025-02-11 19:44:51,Business
+617,Brightport Therapeutics,Healthcare,Netherlands,80,2025-02-11 12:05:06,Growth
+618,Westpath Labs,Software,United States,43,2025-02-11 20:10:04,Business
+619,Greenspring Logistics,Logistics,United States,69,2025-02-11 21:23:05,Business
+620,Coppercrest Outfitters,Retail,France,10,2025-02-12 12:47:08,Growth
+621,Ridgepeak Goods,Retail,United States,25,2025-02-12 20:26:36,Starter
+622,Highvale Partners,Financial Services,France,29,2025-02-13 12:09:02,Growth
+623,Birchmark Capital,Financial Services,Australia,35,2025-02-13 04:04:17,Business
+624,Bluepeak Couriers,Logistics,United States,131,2025-02-14 06:18:42,Growth
+625,Moonfern Tutors,Education,Brazil,33,2025-02-14 17:04:03,Starter
+626,Redpath Financial,Financial Services,United States,21,2025-02-14 20:15:52,Starter
+627,Moondale Shipping,Logistics,United States,32,2025-02-15 01:03:45,Growth
+628,Goldwick Works,Manufacturing,Australia,734,2025-02-17 05:42:52,Enterprise
+629,Greenmark Therapeutics,Healthcare,United States,61,2025-02-18 02:34:21,Growth
+630,Northmont Stores,Retail,Australia,3,2025-02-18 02:53:41,Starter
+631,Granitespring Goods,Retail,France,3,2025-02-21 00:42:28,Starter
+632,Copperfield Logistics,Logistics,Brazil,50,2025-02-21 14:55:15,Business
+633,Ridgepath Software,Software,United States,62,2025-02-21 23:21:15,Growth
+634,Foxbridge Therapeutics,Healthcare,Canada,61,2025-02-24 22:42:10,Growth
+635,Clifflane Lending,Financial Services,United Kingdom,28,2025-02-25 18:07:05,Business
+636,Moonwood Components,Manufacturing,United Kingdom,62,2025-02-26 04:40:45,Growth
+637,Bayrock Clinics,Healthcare,Australia,61,2025-02-26 02:33:35,Business
+638,Moonpath Data,Software,Brazil,149,2025-02-26 15:44:43,Business
+639,Lakegate Data,Software,United Kingdom,6,2025-02-27 00:15:49,Starter
+640,Brightpoint Digital,Software,United States,36,2025-02-27 23:59:26,Growth
+641,Frostbrook Home,Retail,Germany,61,2025-03-02 17:15:47,Growth
+642,Ashwick Institute,Education,Australia,8,2025-03-04 05:54:52,Starter
+643,Bayridge Stores,Retail,United States,83,2025-03-04 20:31:13,Growth
+644,Clearhill Data,Software,United States,12,2025-03-05 07:38:56,Growth
+645,Ashleaf Digital,Software,United States,6,2025-03-05 13:42:34,Starter
+646,Brightstone Partners,Financial Services,United States,109,2025-03-05 16:44:48,Business
+647,Oakbeam Therapeutics,Healthcare,Canada,387,2025-03-05 16:44:46,Business
+648,Westpoint Academy,Education,United States,81,2025-03-05 16:52:26,Business
+649,Westleaf Works,Manufacturing,United States,23,2025-03-06 05:54:45,Starter
+650,Easthill Education,Education,Brazil,8,2025-03-06 15:21:44,Starter
+651,Cliffshore Digital,Software,Germany,14,2025-03-06 11:39:49,Growth
+652,Southrock Systems,Software,France,18,2025-03-06 12:45:51,Starter
+653,Oakhaven Components,Manufacturing,United States,142,2025-03-10 20:11:47,Business
+654,Highwood Data,Software,United States,7,2025-03-10 22:08:53,Starter
+655,Riverport Goods,Retail,Germany,7,2025-03-10 20:35:41,Starter
+656,Redwell Partners,Financial Services,Canada,89,2025-03-11 19:00:50,Business
+657,Westhollow Home,Retail,United States,22,2025-03-12 13:37:00,Starter
+658,Cedarwick Partners,Financial Services,United Kingdom,47,2025-03-12 13:05:43,Growth
+659,Baystone Advisors,Financial Services,France,56,2025-03-12 14:57:20,Business
+660,Silverspring Couriers,Logistics,United States,36,2025-03-12 22:23:32,Growth
+661,Meadowbank Labs,Software,Australia,24,2025-03-13 02:39:25,Growth
+662,Northwell Stores,Retail,Netherlands,3,2025-03-13 19:42:48,Starter
+663,Foxmark Components,Manufacturing,United States,80,2025-03-14 13:13:41,Business
+664,Bearleaf Digital,Software,United States,17,2025-03-16 19:18:55,Starter
+665,Foxrock Shipping,Logistics,United States,69,2025-03-17 19:08:49,Growth
+666,Moonhaven Partners,Financial Services,United States,4,2025-03-17 17:21:42,Starter
+667,Ridgeleaf Manufacturing,Manufacturing,Ireland,13,2025-03-18 12:22:18,Starter
+668,Pinemont Systems,Software,Ireland,46,2025-03-18 13:43:54,Growth
+669,Rivermont Home,Retail,Ireland,9,2025-03-18 14:52:13,Starter
+670,Pinedale Institute,Education,United States,10,2025-03-19 19:38:07,Business
+671,Oakline Medical,Healthcare,United States,28,2025-03-19 20:57:56,Growth
+672,Northwick Learning,Education,Australia,3,2025-03-19 11:10:17,Starter
+673,Silverhill Plastics,Manufacturing,United States,78,2025-03-20 14:56:57,Business
+674,Wolfport Clinics,Healthcare,Canada,55,2025-03-21 04:18:12,Growth
+675,Stonepoint Partners,Financial Services,United Kingdom,309,2025-03-21 10:14:33,Enterprise
+676,Rivermark Logistics,Logistics,Brazil,42,2025-03-21 17:32:05,Business
+677,Graniteside Freight,Logistics,France,31,2025-03-22 01:08:56,Growth
+678,Meadowfield Distribution,Logistics,United States,17,2025-03-22 18:00:40,Growth
+679,Harborwood Technologies,Software,Netherlands,78,2025-03-25 09:12:38,Business
+680,Ironbrook Transport,Logistics,Ireland,55,2025-03-25 12:25:09,Growth
+681,Wolfwood Schools,Education,Australia,18,2025-03-25 02:27:53,Starter
+682,Moonside Industries,Manufacturing,Germany,90,2025-03-26 16:26:31,Enterprise
+683,Foxvale Capital,Financial Services,Netherlands,65,2025-03-27 09:22:39,Starter
+684,Granitebank Therapeutics,Healthcare,Ireland,13,2025-03-27 15:42:21,Starter
+685,Birchwind Advisors,Financial Services,Ireland,3,2025-03-28 14:52:28,Starter
+686,Elmhaven Labs,Software,Canada,3,2025-03-29 03:57:34,Growth
+687,Baywood Data,Software,Germany,39,2025-03-29 11:01:19,Starter
+688,Maplewater Advisors,Financial Services,United Kingdom,27,2025-03-31 09:45:28,Growth
+689,Goldmont Partners,Financial Services,United States,169,2025-04-01 19:44:12,Growth
+690,Summitmark Digital,Software,France,9,2025-04-02 09:44:12,Starter
+691,Cliffspring Health,Healthcare,United States,34,2025-04-02 17:24:44,Growth
+692,Ashmont Market,Retail,Germany,12,2025-04-02 19:38:12,Starter
+693,Southfield Freight,Logistics,Canada,110,2025-04-03 18:15:50,Business
+694,Southpoint Advisors,Financial Services,United States,24,2025-04-06 04:00:09,Starter
+695,Ridgemont Transport,Logistics,United States,31,2025-04-07 07:01:21,Growth
+696,Baypath Manufacturing,Manufacturing,United Kingdom,44,2025-04-07 08:33:38,Growth
+697,Elmhollow Care,Healthcare,United Kingdom,16,2025-04-07 13:22:06,Starter
+698,Eastgrove Software,Software,United States,48,2025-04-07 20:19:05,Business
+699,Golddale Therapeutics,Healthcare,United States,8,2025-04-07 19:57:42,Growth
+700,Elmlight Labs,Software,Canada,78,2025-04-07 20:55:27,Business
+701,Cliffwood Partners,Financial Services,United States,34,2025-04-08 17:10:40,Growth
+702,Frostlight Medical,Healthcare,United States,56,2025-04-09 03:22:17,Growth
+703,Stoneside Advisors,Financial Services,Canada,24,2025-04-09 13:25:50,Starter
+704,Brightwell Goods,Retail,Netherlands,20,2025-04-09 08:46:23,Starter
+705,Meadowbrook Technologies,Software,Australia,19,2025-04-09 23:44:59,Starter
+706,Moonfield Capital,Financial Services,United Kingdom,74,2025-04-10 14:05:25,Growth
+707,Meadowdale Data,Software,Brazil,3,2025-04-11 00:08:05,Starter
+708,Frostmont Partners,Financial Services,United States,88,2025-04-12 00:26:51,Growth
+709,Birchfield Partners,Financial Services,United States,63,2025-04-12 15:55:50,Growth
+710,Silverleaf Systems,Software,United Kingdom,3,2025-04-12 13:06:44,Starter
+711,Foxhill Lending,Financial Services,United Kingdom,36,2025-04-14 10:37:46,Growth
+712,Birchpeak Works,Manufacturing,Japan,13,2025-04-15 00:13:17,Growth
+713,Copperwick Supply,Retail,Brazil,48,2025-04-15 16:06:57,Growth
+714,Stonewater Plastics,Manufacturing,Australia,62,2025-04-15 05:14:04,Growth
+715,Copperhollow Partners,Financial Services,Netherlands,10,2025-04-16 10:54:04,Growth
+716,Greenbeam Wealth,Financial Services,Brazil,24,2025-04-16 22:35:20,Starter
+717,Moonvale Therapeutics,Healthcare,Japan,10,2025-04-16 21:13:04,Growth
+718,Redhollow Therapeutics,Healthcare,Japan,47,2025-04-17 06:13:54,Growth
+719,Summithaven Medical,Healthcare,Brazil,27,2025-04-17 19:26:32,Growth
+720,Birchstone Capital,Financial Services,United States,27,2025-04-18 15:25:47,Growth
+721,Greenshore Distribution,Logistics,United States,52,2025-04-19 05:15:45,Growth
+722,Stormlight Manufacturing,Manufacturing,United States,40,2025-04-19 16:32:14,Growth
+723,Pineridge Works,Manufacturing,Germany,9,2025-04-21 14:38:42,Starter
+724,Moonhill Advisors,Financial Services,United States,82,2025-04-21 23:26:53,Business
+725,Cedarcrest Diagnostics,Healthcare,United Kingdom,18,2025-04-21 21:18:47,Growth
+726,Summitbank Data,Software,Netherlands,14,2025-04-21 20:55:59,Starter
+727,Redstone Manufacturing,Manufacturing,Canada,15,2025-04-22 14:05:05,Starter
+728,Redwood Software,Software,Australia,16,2025-04-22 01:00:22,Business
+729,Stormpath Systems,Software,United States,23,2025-04-24 17:50:47,Growth
+730,Bluestone Advisors,Financial Services,United States,17,2025-04-25 19:07:11,Growth
+731,Hawkgate Therapeutics,Healthcare,United States,28,2025-04-25 21:11:22,Business
+732,Greengrove Goods,Retail,United States,120,2025-04-25 21:56:10,Enterprise
+733,Birchrock Labs,Software,Australia,47,2025-04-25 11:04:43,Growth
+734,Southwater Fabrication,Manufacturing,Germany,24,2025-04-26 13:14:49,Starter
+735,Coppermark Labs,Software,Australia,8,2025-04-26 13:13:04,Starter
+736,Silverhaven Industries,Manufacturing,United Kingdom,111,2025-04-28 14:30:50,Business
+737,Pinecrest Institute,Education,United States,14,2025-04-29 17:57:51,Business
+738,Wolflight Lending,Financial Services,Germany,60,2025-04-29 11:19:03,Growth
+739,Redgrove Systems,Software,United States,43,2025-05-01 01:40:37,Business
+740,Oakbrook Components,Manufacturing,France,44,2025-05-01 11:18:44,Business
+741,Elmpath Software,Software,Brazil,3,2025-05-01 20:31:18,Starter
+742,Harborgate Stores,Retail,United States,8,2025-05-02 17:34:32,Starter
+743,Ashwell Goods,Retail,United States,12,2025-05-03 18:06:52,Starter
+744,Westvale Diagnostics,Healthcare,France,79,2025-05-05 12:23:57,Business
+745,Southmont Shipping,Logistics,Canada,69,2025-05-05 23:39:16,Growth
+746,Birchbridge Lending,Financial Services,United Kingdom,34,2025-05-06 19:57:04,Growth
+747,Ridgeline Health,Healthcare,France,16,2025-05-07 12:50:52,Starter
+748,Cliffridge Couriers,Logistics,Germany,17,2025-05-08 08:49:31,Starter
+749,Goldside Technologies,Software,Netherlands,25,2025-05-08 13:51:43,Growth
+750,Pineford Lending,Financial Services,Australia,189,2025-05-08 12:17:17,Growth
+751,Copperbeam Education,Education,Germany,93,2025-05-09 10:11:09,Business
+752,Clearwind Software,Software,Australia,15,2025-05-09 01:52:08,Growth
+753,Bearwell Advisors,Financial Services,United States,40,2025-05-09 22:37:11,Growth
+754,Sungrove Care,Healthcare,United States,33,2025-05-12 20:04:15,Starter
+755,Summitvale Digital,Software,United States,66,2025-05-14 04:21:16,Growth
+756,Stormfield Digital,Software,United Kingdom,13,2025-05-14 09:33:13,Starter
+757,Ridgespring Data,Software,Brazil,19,2025-05-14 20:41:42,Starter
+758,Sunpath Fabrication,Manufacturing,United States,11,2025-05-15 04:14:29,Growth
+759,Pinehollow Software,Software,United States,66,2025-05-15 16:36:30,Growth
+760,Northford Labs,Software,Japan,3,2025-05-15 04:26:40,Starter
+761,Bayhill Education,Education,Ireland,40,2025-05-15 14:02:36,Business
+762,Cliffdale Schools,Education,Brazil,18,2025-05-15 19:17:25,Starter
+763,Cedarhollow Home,Retail,United States,16,2025-05-15 23:17:19,Starter
+764,Stonewood Components,Manufacturing,Brazil,4,2025-05-16 16:05:53,Growth
+765,Wolfline Software,Software,Netherlands,29,2025-05-16 14:18:34,Business
+766,Summitrock Advisors,Financial Services,Japan,4,2025-05-18 11:51:16,Starter
+767,Bluebank Therapeutics,Healthcare,United Kingdom,24,2025-05-19 16:48:09,Starter
+768,Bayshore Freight,Logistics,France,138,2025-05-19 15:59:09,Business
+769,Stonelane Therapeutics,Healthcare,United States,8,2025-05-20 04:03:31,Starter
+770,Brightdale Home,Retail,Japan,8,2025-05-20 00:13:15,Starter
+771,Summitpoint Medical,Healthcare,France,18,2025-05-20 10:15:42,Starter
+772,Lakeside Market,Retail,United States,69,2025-05-20 20:12:35,Business
+773,Ironleaf Lending,Financial Services,United States,152,2025-05-20 19:38:35,Business
+774,Clearfern Software,Software,United States,8,2025-05-20 21:02:28,Starter
+775,Wolfbeam Health,Healthcare,Australia,22,2025-05-20 23:40:02,Starter
+776,Highmont Care,Healthcare,Netherlands,105,2025-05-21 09:13:46,Business
+777,Frostford Goods,Retail,Canada,67,2025-05-21 18:29:43,Business
+778,Ridgehill Learning,Education,France,19,2025-05-21 21:55:49,Starter
+779,Cedardale Digital,Software,United States,158,2025-05-23 00:52:54,Business
+780,Stormhaven Data,Software,United Kingdom,88,2025-05-23 10:49:05,Growth
+781,Foxline Partners,Financial Services,Canada,93,2025-05-23 18:58:26,Business
+782,Cleardale Technologies,Software,United States,6,2025-05-24 21:53:37,Starter
+783,Graniteleaf Systems,Software,United Kingdom,53,2025-05-25 12:48:27,Growth
+784,Southfern Data,Software,United Kingdom,10,2025-05-26 13:27:57,Starter
+785,Clearmont Care,Healthcare,Canada,7,2025-05-27 00:02:07,Starter
+786,Stonehaven Health,Healthcare,United States,12,2025-05-27 02:51:59,Starter
+787,Summitmont Institute,Education,United States,21,2025-05-27 04:15:25,Growth
+788,Hawkdale Goods,Retail,United Kingdom,56,2025-05-27 08:15:11,Growth
+789,Stormdale Systems,Software,United Kingdom,13,2025-05-27 09:17:48,Growth
+790,Cleargate Health,Healthcare,United Kingdom,94,2025-05-27 13:52:32,Enterprise
+791,Highbank Technologies,Software,Germany,7,2025-05-27 14:08:44,Starter
+792,Goldshore Capital,Financial Services,United States,20,2025-05-28 16:42:39,Starter
+793,Stormline Wealth,Financial Services,United Kingdom,8,2025-05-28 18:31:31,Starter
+794,Riverbank Technologies,Software,Brazil,8,2025-05-28 22:27:06,Starter
+795,Silvershore Medical,Healthcare,Australia,5,2025-05-28 12:16:17,Starter
+796,Cedarhaven Systems,Software,United Kingdom,116,2025-05-29 11:51:32,Growth
+797,Summitridge Components,Manufacturing,Germany,24,2025-05-30 11:33:59,Starter
+798,Summitwell Outfitters,Retail,France,66,2025-06-02 14:17:53,Business
+799,Ironfield Outfitters,Retail,United States,20,2025-06-03 11:15:05,Growth
+800,Rivervale Distribution,Logistics,Brazil,33,2025-06-03 13:57:00,Enterprise
+801,Riverside Stores,Retail,United States,27,2025-06-03 22:50:06,Growth
+802,Granitemont Wealth,Financial Services,United Kingdom,15,2025-06-04 12:25:53,Growth
+803,Hawklane Financial,Financial Services,United States,41,2025-06-05 08:59:28,Growth
+804,Ashwind Care,Healthcare,Japan,6,2025-06-05 02:16:39,Starter
+805,Maplepath Clinics,Healthcare,United States,54,2025-06-05 18:56:25,Growth
+806,Highline Therapeutics,Healthcare,United States,7,2025-06-05 20:02:12,Starter
+807,Cedarfern Learning,Education,Germany,86,2025-06-06 12:17:04,Business
+808,Moonspring Digital,Software,Netherlands,42,2025-06-06 12:23:15,Growth
+809,Stormshore Labs,Software,United States,45,2025-06-06 21:13:41,Business
+810,Elmshore Home,Retail,United Kingdom,6,2025-06-06 22:57:07,Starter
+811,Cliffbrook Partners,Financial Services,Brazil,59,2025-06-09 15:53:57,Growth
+812,Graniteport Market,Retail,Netherlands,58,2025-06-09 16:49:33,Business
+813,Riverwick Medical,Healthcare,United States,93,2025-06-10 02:07:38,Growth
+814,Irongate Freight,Logistics,United States,3,2025-06-11 02:05:55,Starter
+815,Elmpeak Wealth,Financial Services,Brazil,8,2025-06-11 14:19:52,Starter
+816,Bearline Advisors,Financial Services,Brazil,26,2025-06-11 16:34:06,Growth
+817,Southhollow Health,Healthcare,Brazil,8,2025-06-11 16:44:41,Starter
+818,Southline Market,Retail,Canada,38,2025-06-11 21:41:37,Business
+819,Highwind Plastics,Manufacturing,Australia,52,2025-06-11 06:42:49,Growth
+820,Silverpoint Goods,Retail,United States,17,2025-06-12 16:01:33,Starter
+821,Silverstone Fabrication,Manufacturing,Brazil,40,2025-06-12 12:55:43,Business
+822,Ashridge Market,Retail,United Kingdom,122,2025-06-12 10:17:18,Growth
+823,Hawkbridge Software,Software,Ireland,12,2025-06-12 13:28:45,Growth
+824,Stonebridge Outfitters,Retail,United States,99,2025-06-13 01:17:49,Growth
+825,Pinespring Diagnostics,Healthcare,United States,10,2025-06-13 18:15:14,Growth
+826,Wolfmark Fabrication,Manufacturing,Canada,52,2025-06-13 18:18:42,Business
+827,Hawkvale Diagnostics,Healthcare,United Kingdom,51,2025-06-17 14:13:35,Growth
+828,Bearcrest Components,Manufacturing,Canada,391,2025-06-17 22:28:44,Business
+829,Highfern Care,Healthcare,United States,27,2025-06-19 18:41:27,Business
+830,Redbrook Digital,Software,Australia,5,2025-06-19 10:26:29,Starter
+831,Lakeford Data,Software,Canada,11,2025-06-20 06:15:19,Starter
+832,Wolfhill Outfitters,Retail,United Kingdom,30,2025-06-20 10:04:06,Growth
+833,Clearcrest Shipping,Logistics,United States,237,2025-06-22 00:41:35,Growth
+834,Cliffbeam Plastics,Manufacturing,Germany,275,2025-06-23 08:33:06,Enterprise
+835,Highhaven Advisors,Financial Services,United States,100,2025-06-23 14:42:23,Business
+836,Cedarford Technologies,Software,United Kingdom,3,2025-06-23 11:23:26,Starter
+837,Wolfpoint Goods,Retail,United States,21,2025-06-24 23:45:22,Starter
+838,Riverwell Market,Retail,United Kingdom,6,2025-06-24 20:45:36,Growth
+839,Wolfpeak Transport,Logistics,United Kingdom,29,2025-06-26 08:23:04,Business
+840,Highpoint Systems,Software,Canada,19,2025-06-26 14:29:25,Growth
+841,Stormwater Freight,Logistics,Canada,47,2025-06-26 19:05:35,Business
+842,Moonleaf Tutors,Education,United States,13,2025-06-28 23:27:15,Starter
+843,Cliffhill Therapeutics,Healthcare,United States,14,2025-06-28 23:23:52,Growth
+844,Moonbrook Technologies,Software,Ireland,42,2025-06-28 19:03:18,Starter
+845,Baybank Stores,Retail,United States,58,2025-06-30 18:43:31,Starter
+846,Silverwood Systems,Software,Germany,46,2025-06-30 18:34:27,Growth
+847,Lakerock Care,Healthcare,Canada,6,2025-07-01 18:26:01,Starter
+848,Stormport Lending,Financial Services,Germany,39,2025-07-01 15:11:29,Growth
+849,Coppermont Partners,Financial Services,Netherlands,22,2025-07-01 18:12:06,Starter
+850,Sunpeak Goods,Retail,United Kingdom,13,2025-07-02 12:27:01,Starter
+851,Mapleline Fabrication,Manufacturing,United Kingdom,28,2025-07-02 19:46:04,Growth
+852,Wolfpath Software,Software,United States,41,2025-07-03 02:13:05,Growth
+853,Elmrock Supply,Retail,United States,3,2025-07-03 13:59:32,Starter
+854,Clearleaf Partners,Financial Services,Brazil,156,2025-07-03 13:31:24,Business
+855,Ridgewater Technologies,Software,Netherlands,14,2025-07-03 11:39:23,Growth
+856,Lakewick Data,Software,Brazil,8,2025-07-03 21:58:54,Growth
+857,Silverrock Institute,Education,Netherlands,12,2025-07-05 13:55:22,Growth
+858,Frosthill Labs,Software,Germany,4,2025-07-05 16:37:24,Starter
+859,Greenlight Education,Education,Japan,3,2025-07-05 14:15:23,Starter
+860,Elmport Clinics,Healthcare,United States,93,2025-07-07 19:41:30,Business
+861,Harborline Outfitters,Retail,France,10,2025-07-07 14:44:53,Starter
+862,Foxfern Academy,Education,Ireland,20,2025-07-07 17:25:38,Growth
+863,Wolflane Medical,Healthcare,Canada,28,2025-07-08 15:24:07,Growth
+864,Birchline Schools,Education,Ireland,13,2025-07-08 21:00:19,Starter
+865,Ashfern Industries,Manufacturing,United States,97,2025-07-09 17:14:47,Business
+866,Cliffbridge Systems,Software,France,60,2025-07-09 10:11:13,Growth
+867,Copperdale Capital,Financial Services,Germany,71,2025-07-09 12:51:52,Business
+868,Starleaf Systems,Software,United Kingdom,5,2025-07-09 20:50:13,Starter
+869,Brightpeak Data,Software,Canada,19,2025-07-10 13:41:12,Growth
+870,Goldpoint Labs,Software,Australia,118,2025-07-11 01:13:58,Business
+871,Lakepoint Lending,Financial Services,Ireland,42,2025-07-11 12:24:43,Business
+872,Goldford Medical,Healthcare,United Kingdom,23,2025-07-11 12:47:47,Starter
+873,Moonwater Fabrication,Manufacturing,United Kingdom,130,2025-07-11 18:54:59,Business
+874,Cliffbank Diagnostics,Healthcare,United States,20,2025-07-14 03:49:48,Growth
+875,Bearport Care,Healthcare,Germany,34,2025-07-14 09:29:28,Growth
+876,Clearbrook Supply,Retail,United States,45,2025-07-14 19:15:22,Growth
+877,Clearpeak Therapeutics,Healthcare,Canada,9,2025-07-14 18:23:30,Starter
+878,Bearstone Plastics,Manufacturing,Netherlands,35,2025-07-14 13:16:26,Growth
+879,Cedarwood Clinics,Healthcare,United States,10,2025-07-16 14:05:24,Growth
+880,Cliffpoint Software,Software,Brazil,27,2025-07-16 14:57:07,Growth
+881,Northhollow Education,Education,United States,34,2025-07-16 21:59:49,Growth
+882,Redline Clinics,Healthcare,Japan,15,2025-07-17 02:09:17,Growth
+883,Stonegate Fabrication,Manufacturing,Canada,54,2025-07-17 21:54:48,Starter
+884,Goldridge Digital,Software,United States,5,2025-07-17 23:26:24,Starter
+885,Bluefern Stores,Retail,United States,84,2025-07-18 11:48:27,Growth
+886,Wolfgate Care,Healthcare,United States,9,2025-07-18 20:16:03,Starter
+887,Harbormont Partners,Financial Services,Canada,8,2025-07-21 15:08:30,Starter
+888,Pinebank Therapeutics,Healthcare,United States,79,2025-07-21 16:25:06,Enterprise
+889,Oakfern Goods,Retail,France,14,2025-07-22 07:05:07,Starter
+890,Lakebeam Outfitters,Retail,United States,27,2025-07-23 16:08:15,Growth
+891,Ashrock Software,Software,Ireland,28,2025-07-23 16:30:33,Growth
+892,Ashpath Academy,Education,United States,10,2025-07-24 22:13:49,Growth
+893,Harborbeam Systems,Software,Germany,16,2025-07-25 12:09:26,Starter
+894,Clearfield Supply,Retail,France,10,2025-07-25 20:19:16,Starter
+895,Copperbrook Works,Manufacturing,Canada,56,2025-07-28 15:44:48,Growth
+896,Clearridge Manufacturing,Manufacturing,Germany,413,2025-07-28 10:07:40,Enterprise
+897,Brightbridge Technologies,Software,United States,50,2025-07-29 20:15:56,Growth
+898,Starport Software,Software,France,27,2025-07-30 13:43:14,Business
+899,Northgate Software,Software,United States,13,2025-08-01 00:12:22,Starter
+900,Mapleshore Works,Manufacturing,France,20,2025-08-01 15:04:41,Starter
+901,Goldwind Market,Retail,Netherlands,8,2025-08-03 07:08:35,Starter
+902,Ashspring Distribution,Logistics,United States,36,2025-08-05 00:53:59,Growth
+903,Eastmont Health,Healthcare,United States,17,2025-08-05 15:38:49,Starter
+904,Ironmark Wealth,Financial Services,Brazil,218,2025-08-05 18:01:20,Business
+905,Northwind Supply,Retail,United States,56,2025-08-05 21:37:14,Business
+906,Sunbeam Medical,Healthcare,Canada,8,2025-08-06 00:11:11,Growth
+907,Highwater Care,Healthcare,Germany,274,2025-08-06 07:40:49,Enterprise
+908,Southwood Academy,Education,United Kingdom,71,2025-08-06 15:16:57,Growth
+909,Summitbridge Lending,Financial Services,United States,68,2025-08-07 15:52:34,Growth
+910,Riverfern Capital,Financial Services,Brazil,55,2025-08-07 14:39:23,Starter
+911,Ridgeside Care,Healthcare,Canada,19,2025-08-08 01:55:54,Starter
+912,Ironwood Advisors,Financial Services,Australia,8,2025-08-07 13:29:02,Starter
+913,Baywick Manufacturing,Manufacturing,United States,218,2025-08-08 19:33:25,Business
+914,Stormgrove Digital,Software,Ireland,36,2025-08-08 20:46:59,Growth
+915,Greenbridge Capital,Financial Services,United States,47,2025-08-11 20:53:44,Growth
+916,Clearbeam Home,Retail,United States,7,2025-08-12 01:59:41,Starter
+917,Moonhollow Home,Retail,Brazil,124,2025-08-12 16:06:08,Enterprise
+918,Riverhollow Components,Manufacturing,Germany,116,2025-08-12 14:33:58,Enterprise
+919,Harborfield Shipping,Logistics,United States,9,2025-08-12 22:46:23,Starter
+920,Cedarpoint Supply,Retail,Brazil,22,2025-08-13 17:04:24,Starter
+921,Ridgefern Technologies,Software,United States,12,2025-08-13 20:53:11,Growth
+922,Summitgrove Partners,Financial Services,United Kingdom,5,2025-08-14 14:59:30,Growth
+923,Sunbridge Wealth,Financial Services,Canada,17,2025-08-14 21:15:52,Growth
+924,Starshore Industries,Manufacturing,Japan,16,2025-08-14 07:45:18,Growth
+925,Stormpoint Systems,Software,United States,3,2025-08-15 06:49:56,Starter
+926,Moonmont Therapeutics,Healthcare,France,105,2025-08-18 08:31:10,Business
+927,Southhill Industries,Manufacturing,United States,61,2025-08-18 18:23:49,Business
+928,Bearrock Software,Software,United States,3,2025-08-19 17:00:45,Starter
+929,Goldline Schools,Education,Australia,66,2025-08-19 06:47:26,Growth
+930,Northstone Partners,Financial Services,France,85,2025-08-19 14:20:08,Enterprise
+931,Foxwood Diagnostics,Healthcare,United States,92,2025-08-19 20:53:06,Business
+932,Silvervale Wealth,Financial Services,United States,53,2025-08-19 21:43:48,Growth
+933,Eastpeak Academy,Education,Netherlands,11,2025-08-19 21:58:03,Starter
+934,Goldlane Industries,Manufacturing,United States,76,2025-08-20 12:49:27,Growth
+935,Brighthollow Data,Software,Canada,72,2025-08-20 12:17:33,Growth
+936,Ashhaven Labs,Software,Germany,32,2025-08-20 06:52:25,Growth
+937,Riverpeak Health,Healthcare,Brazil,22,2025-08-20 17:15:56,Business
+938,Greenfern Schools,Education,United States,9,2025-08-21 04:30:15,Starter
+939,Harborwater Education,Education,Australia,44,2025-08-21 04:52:08,Starter
+940,Starwind Goods,Retail,Germany,59,2025-08-21 14:47:19,Growth
+941,Blueline Financial,Financial Services,United States,130,2025-08-22 19:01:49,Business
+942,Lakewind Medical,Healthcare,Japan,72,2025-08-22 11:58:48,Starter
+943,Foxpoint Wealth,Financial Services,Germany,70,2025-08-25 18:08:18,Growth
+944,Blueside Digital,Software,Germany,9,2025-08-26 21:46:10,Starter
+945,Bluewell Diagnostics,Healthcare,Australia,38,2025-08-27 00:57:59,Growth
+946,Bayford Therapeutics,Healthcare,Japan,232,2025-08-27 03:16:15,Business
+947,Ridgebridge Learning,Education,Ireland,42,2025-08-27 14:17:28,Starter
+948,Elmdale Digital,Software,United States,24,2025-08-28 05:34:33,Growth
+949,Westcrest Tutors,Education,Australia,35,2025-08-27 23:27:52,Growth
+950,Cedarrock Learning,Education,United States,67,2025-08-28 22:33:29,Growth
+951,Meadowline Advisors,Financial Services,United Kingdom,38,2025-08-28 23:15:16,Growth
+952,Cliffrock Education,Education,Germany,4,2025-08-29 08:10:44,Starter
+953,Greenvale Software,Software,United Kingdom,12,2025-08-29 18:48:40,Starter
+954,Oakhill Transport,Logistics,Australia,12,2025-08-31 05:44:06,Starter
+955,Bearbridge Data,Software,United States,51,2025-09-01 14:38:58,Growth
+956,Hawkridge Partners,Financial Services,Canada,46,2025-09-01 18:30:09,Growth
+957,Baymont Diagnostics,Healthcare,United States,16,2025-09-02 19:59:28,Starter
+958,Wolfleaf Plastics,Manufacturing,Brazil,55,2025-09-04 12:22:09,Growth
+959,Eastford Systems,Software,Canada,193,2025-09-04 16:23:07,Growth
+960,Brightwind Lending,Financial Services,Australia,16,2025-09-04 12:29:58,Starter
+961,Sunfield Wealth,Financial Services,Brazil,14,2025-09-06 12:07:14,Starter
+962,Silverbridge Market,Retail,United Kingdom,34,2025-09-06 14:01:08,Growth
+963,Frostleaf Systems,Software,Germany,11,2025-09-06 18:21:55,Starter
+964,Pinefern Partners,Financial Services,United States,84,2025-09-10 15:35:07,Business
+965,Summitcrest Partners,Financial Services,France,31,2025-09-11 09:35:10,Business
+966,Silverlight Learning,Education,United States,100,2025-09-11 16:40:50,Business
+967,Westbank Plastics,Manufacturing,Japan,199,2025-09-11 01:50:45,Business
+968,Bluehaven Clinics,Healthcare,United States,4,2025-09-11 21:07:16,Starter
+969,Harborhill Health,Healthcare,United States,28,2025-09-12 02:59:29,Growth
+970,Ironlane Software,Software,Ireland,28,2025-09-12 10:19:42,Starter
+971,Eastwater Freight,Logistics,Canada,55,2025-09-12 23:02:05,Business
+972,Maplebrook Market,Retail,Netherlands,11,2025-09-13 08:38:27,Starter
+973,Bluehollow Labs,Software,United States,4,2025-09-14 16:53:04,Starter
+974,Brightfield Goods,Retail,United Kingdom,20,2025-09-14 12:11:49,Starter
+975,Brightshore Logistics,Logistics,Australia,22,2025-09-14 06:29:59,Growth
+976,Rivercrest Labs,Software,Germany,33,2025-09-15 10:00:02,Growth
+977,Lakecrest Data,Software,Netherlands,17,2025-09-15 11:26:00,Starter
+978,Copperridge Financial,Financial Services,Japan,77,2025-09-16 01:51:06,Enterprise
+979,Greenrock Financial,Financial Services,United Kingdom,483,2025-09-16 15:03:10,Enterprise
+980,Southpeak Couriers,Logistics,Canada,39,2025-09-17 05:25:36,Growth
+981,Cedarhill Tutors,Education,United States,12,2025-09-17 16:28:10,Starter
+982,Cedarline Care,Healthcare,United Kingdom,21,2025-09-17 18:05:25,Growth
+983,Ridgefield Capital,Financial Services,United States,8,2025-09-19 00:05:53,Starter
+984,Oakford Therapeutics,Healthcare,United States,32,2025-09-19 01:42:09,Growth
+985,Westwind Distribution,Logistics,Brazil,31,2025-09-19 13:13:20,Enterprise
+986,Greenford Fabrication,Manufacturing,Australia,30,2025-09-19 01:14:52,Business
+987,Northmark Data,Software,Australia,20,2025-09-19 10:00:55,Starter
+988,Goldwell Academy,Education,Canada,35,2025-09-20 17:32:28,Growth
+989,Lakebrook Distribution,Logistics,United States,34,2025-09-21 21:22:50,Growth
+990,Harborlight Plastics,Manufacturing,United Kingdom,5,2025-09-22 10:26:21,Starter
+991,Pinebrook Capital,Financial Services,United States,8,2025-09-23 14:41:40,Starter
+992,Birchfern Technologies,Software,Ireland,53,2025-09-23 16:26:01,Business
+993,Wolfdale Components,Manufacturing,Canada,21,2025-09-24 22:19:32,Starter
+994,Silverwater Fabrication,Manufacturing,Japan,23,2025-09-25 05:44:36,Starter
+995,Bearlane Care,Healthcare,United States,13,2025-09-26 02:16:53,Growth
+996,Westwell Advisors,Financial Services,Japan,115,2025-09-26 03:56:25,Business
+997,Bearbeam Stores,Retail,France,66,2025-09-26 20:53:30,Growth
+998,Northpath Advisors,Financial Services,United Kingdom,4,2025-09-27 09:54:22,Starter
+999,Baygrove Data,Software,United States,15,2025-09-28 23:43:07,Starter
+1000,Riverrock Goods,Retail,France,101,2025-09-29 08:17:03,Business
+1001,Cedarbank Clinics,Healthcare,United States,39,2025-09-29 15:01:06,Growth
+1002,Harborside Systems,Software,Netherlands,6,2025-09-30 21:14:21,Starter
+1003,Eastspring Home,Retail,United States,6,2025-10-01 17:01:49,Starter
+1004,Stargate Plastics,Manufacturing,Canada,59,2025-10-01 20:13:22,Starter
+1005,Graniteshore Distribution,Logistics,Canada,19,2025-10-01 22:32:33,Growth
+1006,Frosthaven Systems,Software,United Kingdom,62,2025-10-01 17:39:43,Growth
+1007,Oakrock Digital,Software,Germany,30,2025-10-02 08:36:29,Growth
+1008,Westwick Clinics,Healthcare,Ireland,84,2025-10-02 13:14:27,Business
+1009,Stonemark Shipping,Logistics,Japan,24,2025-10-02 10:17:43,Starter
+1010,Copperwood Clinics,Healthcare,France,52,2025-10-03 09:08:52,Business
+1011,Westbrook Industries,Manufacturing,United Kingdom,224,2025-10-03 15:16:54,Starter
+1012,Stoneline Distribution,Logistics,Germany,89,2025-10-03 14:43:30,Business
+1013,Bayside Health,Healthcare,United Kingdom,54,2025-10-05 13:41:43,Growth
+1014,Westgrove Data,Software,Australia,16,2025-10-05 05:14:40,Starter
+1015,Maplefern Financial,Financial Services,United Kingdom,127,2025-10-06 12:48:26,Business
+1016,Granitehill Couriers,Logistics,United States,24,2025-10-06 20:07:33,Starter
+1017,Clearrock Advisors,Financial Services,United Kingdom,57,2025-10-06 22:19:38,Growth
+1018,Eastbridge Outfitters,Retail,Ireland,10,2025-10-07 11:09:01,Starter
+1019,Granitelane Home,Retail,France,108,2025-10-07 12:16:54,Enterprise
+1020,Ridgepoint Wealth,Financial Services,Australia,19,2025-10-07 04:28:46,Starter
+1021,Sunline Health,Healthcare,United States,105,2025-10-07 20:31:19,Enterprise
+1022,Pinewater Therapeutics,Healthcare,United States,82,2025-10-08 15:27:02,Starter
+1023,Graniteford Software,Software,Germany,14,2025-10-08 08:30:22,Starter
+1024,Oakfield Manufacturing,Manufacturing,Australia,42,2025-10-08 05:35:00,Growth
+1025,Elmwell Components,Manufacturing,United States,119,2025-10-08 21:47:16,Growth
+1026,Northrock Learning,Education,Australia,17,2025-10-09 03:40:54,Starter
+1027,Ironcrest Clinics,Healthcare,United States,3,2025-10-10 02:16:27,Starter
+1028,Frostvale Plastics,Manufacturing,United Kingdom,138,2025-10-10 08:18:25,Business
+1029,Oakwind Shipping,Logistics,Japan,30,2025-10-10 00:49:59,Business
+1030,Stormvale Data,Software,United Kingdom,16,2025-10-10 15:54:44,Growth
+1031,Copperport Clinics,Healthcare,Canada,9,2025-10-11 13:02:09,Starter
+1032,Clearstone Schools,Education,Japan,116,2025-10-13 02:45:31,Business
+1033,Harbordale Medical,Healthcare,France,13,2025-10-13 11:34:03,Starter
+1034,Foxmont Software,Software,Australia,100,2025-10-13 07:48:36,Business
+1035,Birchcrest Shipping,Logistics,United Kingdom,198,2025-10-14 16:14:58,Business
+1036,Foxbank Labs,Software,Japan,4,2025-10-15 00:05:19,Starter
+1037,Wolfgrove Data,Software,Germany,43,2025-10-15 13:35:47,Business
+1038,Starlight Software,Software,United States,69,2025-10-16 16:08:49,Growth
+1039,Meadowbeam Home,Retail,United States,36,2025-10-16 20:17:08,Business
+1040,Moonbeam Partners,Financial Services,Germany,8,2025-10-16 14:36:22,Starter
+1041,Ashbeam Digital,Software,Germany,3,2025-10-16 20:00:45,Starter
+1042,Wolfwick Market,Retail,Brazil,56,2025-10-17 18:38:42,Growth
+1043,Stormmark Market,Retail,France,40,2025-10-20 07:07:35,Growth
+1044,Frostport Education,Education,United Kingdom,9,2025-10-20 12:34:01,Starter
+1045,Ironpoint Health,Healthcare,Australia,14,2025-10-20 05:00:01,Starter
+1046,Granitewater Education,Education,France,113,2025-10-20 16:11:52,Business
+1047,Birchspring Lending,Financial Services,Ireland,23,2025-10-20 22:00:18,Starter
+1048,Ridgestone Manufacturing,Manufacturing,France,24,2025-10-21 07:10:08,Business
+1049,Granitegate Works,Manufacturing,Brazil,68,2025-10-22 14:08:43,Starter
+1050,Stoneshore Advisors,Financial Services,Australia,23,2025-10-22 04:27:06,Starter
+1051,Cedarfield Digital,Software,United States,12,2025-10-23 14:47:29,Starter
+1052,Pinepath Transport,Logistics,Australia,29,2025-10-23 05:54:41,Growth
+1053,Stormpeak Technologies,Software,Brazil,47,2025-10-23 17:20:06,Growth
+1054,Eastwind Clinics,Healthcare,United States,130,2025-10-23 19:43:30,Business
+1055,Harborwell Software,Software,Germany,27,2025-10-23 18:35:26,Growth
+1056,Silverford Wealth,Financial Services,United States,30,2025-10-24 01:04:10,Growth
+1057,Cedarpeak Plastics,Manufacturing,Japan,38,2025-10-24 00:08:36,Business
+1058,Ironpath Wealth,Financial Services,Japan,141,2025-10-24 02:18:49,Enterprise
+1059,Maplehollow Academy,Education,France,46,2025-10-24 11:21:50,Growth
+1060,Southford Labs,Software,United States,4,2025-10-24 22:33:55,Starter
+1061,Ashpeak Systems,Software,United States,15,2025-10-25 03:51:48,Starter
+1062,Sunlane Academy,Education,Netherlands,10,2025-10-25 08:06:02,Starter
+1063,Westgate Data,Software,United Kingdom,7,2025-10-25 15:34:41,Starter
+1064,Hawkpeak Diagnostics,Healthcare,United States,24,2025-10-27 16:14:23,Growth
+1065,Wolffern Diagnostics,Healthcare,United States,160,2025-10-27 17:40:12,Business
+1066,Sunhollow Clinics,Healthcare,Japan,11,2025-10-27 04:11:35,Starter
+1067,Redbridge Works,Manufacturing,Germany,122,2025-10-27 12:55:04,Business
+1068,Cliffleaf Advisors,Financial Services,France,54,2025-10-27 14:47:16,Business
+1069,Oakport Capital,Financial Services,United States,89,2025-10-28 16:08:26,Business
+1070,Moonpoint Goods,Retail,United States,8,2025-10-30 20:13:33,Starter
+1071,Riverfield Academy,Education,United States,151,2025-10-30 19:51:23,Enterprise
+1072,Baywell Labs,Software,Canada,7,2025-10-31 19:26:19,Starter
+1073,Elmstone Partners,Financial Services,United Kingdom,8,2025-10-31 19:53:11,Starter
+1074,Hawkmark Technologies,Software,France,27,2025-11-01 20:10:09,Growth
+1075,Highlane Digital,Software,United States,44,2025-11-03 03:06:07,Growth
+1076,Bearbrook Education,Education,Netherlands,22,2025-11-03 08:51:41,Starter
+1077,Goldfield Supply,Retail,Germany,79,2025-11-03 11:00:38,Business
+1078,Foxwell Stores,Retail,United Kingdom,16,2025-11-03 14:12:00,Growth
+1079,Birchgate Industries,Manufacturing,Germany,40,2025-11-03 13:18:21,Growth
+1080,Lakehill Industries,Manufacturing,France,46,2025-11-03 15:40:30,Starter
+1081,Pineshore Technologies,Software,Australia,97,2025-11-04 03:57:59,Business
+1082,Harborrock Systems,Software,Australia,21,2025-11-04 06:01:44,Starter
+1083,Oakbridge Education,Education,Germany,27,2025-11-04 14:51:47,Growth
+1084,Westfield Health,Healthcare,United States,24,2025-11-04 20:52:12,Growth
+1085,Meadowford Transport,Logistics,Japan,65,2025-11-04 06:59:57,Starter
+1086,Ashside Data,Software,Germany,3,2025-11-04 20:32:50,Starter
+1087,Eastdale Academy,Education,Ireland,3,2025-11-05 10:33:33,Starter
+1088,Westline Digital,Software,Canada,36,2025-11-05 15:55:35,Growth
+1089,Sunside Wealth,Financial Services,United States,3,2025-11-05 17:01:41,Starter
+1090,Brighthill Diagnostics,Healthcare,United States,7,2025-11-05 20:08:20,Starter
+1091,Hawklight Manufacturing,Manufacturing,United States,18,2025-11-06 13:40:19,Starter
+1092,Eastbank Components,Manufacturing,Japan,334,2025-11-06 01:23:56,Enterprise
+1093,Cliffvale Financial,Financial Services,United States,40,2025-11-06 18:45:55,Growth
+1094,Meadowhill Software,Software,Brazil,3,2025-11-06 18:57:58,Starter
+1095,Goldfern Supply,Retail,United States,146,2025-11-07 15:37:49,Business
+1096,Frostlane Software,Software,United Kingdom,75,2025-11-07 09:57:53,Growth
+1097,Starhill Capital,Financial Services,Canada,3,2025-11-10 16:54:16,Starter
+1098,Clifflight Works,Manufacturing,France,44,2025-11-10 14:00:36,Growth
+1099,Harborbridge Software,Software,Germany,28,2025-11-10 15:49:59,Business
+1100,Frostmark Technologies,Software,United Kingdom,4,2025-11-11 11:23:58,Starter
+1101,Copperspring Health,Healthcare,Brazil,14,2025-11-11 16:21:36,Growth
+1102,Riverlight Manufacturing,Manufacturing,United States,28,2025-11-11 23:10:28,Growth
+1103,Bluerock Digital,Software,United States,93,2025-11-12 19:16:06,Enterprise
+1104,Cedarwater Plastics,Manufacturing,France,159,2025-11-12 14:10:31,Business
+1105,Frostline Care,Healthcare,Japan,7,2025-11-12 23:27:27,Starter
+1106,Starline Industries,Manufacturing,United States,22,2025-11-13 21:30:19,Growth
+1107,Frostfern Data,Software,United States,8,2025-11-13 22:06:58,Starter
+1108,Baylane Goods,Retail,France,201,2025-11-13 19:24:23,Growth
+1109,Bluegrove Home,Retail,United States,46,2025-11-14 07:58:31,Growth
+1110,Wolfbridge Transport,Logistics,United States,66,2025-11-14 19:45:18,Growth
+1111,Southside Diagnostics,Healthcare,United Kingdom,31,2025-11-17 14:31:49,Growth
+1112,Goldcrest Supply,Retail,Netherlands,11,2025-11-17 22:44:34,Starter
+1113,Highford Medical,Healthcare,Canada,9,2025-11-18 16:01:47,Starter
+1114,Ashbrook Health,Healthcare,United States,86,2025-11-18 21:11:24,Growth
+1115,Westlane Industries,Manufacturing,United States,32,2025-11-18 20:03:00,Business
+1116,Ridgewind Software,Software,Japan,17,2025-11-18 07:31:28,Growth
+1117,Maplehill Digital,Software,Japan,9,2025-11-18 10:35:07,Starter
+1118,Sunwick Goods,Retail,Canada,32,2025-11-19 20:51:57,Growth
+1119,Clearwell Tutors,Education,United States,14,2025-11-20 03:54:30,Growth
+1120,Greengate Technologies,Software,Germany,22,2025-11-20 09:30:38,Starter
+1121,Redside Technologies,Software,France,4,2025-11-20 20:29:37,Starter
+1122,Ashport Lending,Financial Services,Canada,30,2025-11-21 16:05:45,Growth
+1123,Bearmark Partners,Financial Services,United Kingdom,110,2025-11-21 09:40:36,Enterprise
+1124,Southport Health,Healthcare,United States,7,2025-11-21 19:26:38,Starter
+1125,Northbeam Digital,Software,Netherlands,16,2025-11-21 12:22:35,Growth
+1126,Elmlane Health,Healthcare,United States,15,2025-11-21 20:27:11,Growth
+1127,Riverwind Care,Healthcare,United States,7,2025-11-22 03:04:15,Starter
+1128,Southlight Technologies,Software,United States,47,2025-11-24 17:12:34,Business
+1129,Westdale Capital,Financial Services,United States,7,2025-11-24 21:48:59,Starter
+1130,Moongate Plastics,Manufacturing,Canada,311,2025-11-24 22:47:06,Enterprise
+1131,Mapleford Goods,Retail,Germany,10,2025-11-24 17:18:54,Starter
+1132,Suncrest Care,Healthcare,Australia,19,2025-11-24 09:39:12,Starter
+1133,Goldpeak Health,Healthcare,United States,22,2025-11-25 17:33:01,Growth
+1134,Redwick Capital,Financial Services,Brazil,526,2025-11-25 17:37:00,Business
+1135,Bayline Diagnostics,Healthcare,Japan,52,2025-11-25 22:02:19,Growth
+1136,Redmont Digital,Software,United States,33,2025-11-26 15:48:43,Business
+1137,Lakestone Diagnostics,Healthcare,United States,60,2025-11-26 23:02:25,Growth
+1138,Stormspring Education,Education,Germany,8,2025-11-26 19:26:24,Starter
+1139,Frostgrove Wealth,Financial Services,United States,10,2025-11-27 14:54:16,Starter
+1140,Silverwick Stores,Retail,Canada,68,2025-11-27 17:33:29,Growth
+1141,Highpeak Schools,Education,United States,8,2025-11-29 23:57:45,Starter
+1142,Baylight Education,Education,Australia,70,2025-11-30 23:39:25,Business
+1143,Highbeam Data,Software,United States,13,2025-12-02 15:07:13,Business
+1144,Clearmark Technologies,Software,United Kingdom,3,2025-12-02 13:59:59,Starter
+1145,Meadowrock Medical,Healthcare,United States,29,2025-12-02 19:58:46,Business
+1146,Starvale Stores,Retail,United States,7,2025-12-03 00:45:18,Starter
+1147,Oakpoint Care,Healthcare,Netherlands,14,2025-12-03 07:32:53,Starter
+1148,Northhaven Supply,Retail,United States,9,2025-12-03 18:14:33,Starter
+1149,Clearbank Financial,Financial Services,Canada,21,2025-12-03 23:53:56,Starter
+1150,Clearspring Learning,Education,United States,75,2025-12-04 00:36:02,Growth
+1151,Moonpeak Capital,Financial Services,Australia,333,2025-12-05 00:20:28,Business
+1152,Greenhill Distribution,Logistics,France,58,2025-12-05 15:56:18,Business
+1153,Copperford Medical,Healthcare,Ireland,12,2025-12-05 19:16:14,Starter
+1154,Eastpoint Medical,Healthcare,Netherlands,52,2025-12-05 22:18:41,Starter
+1155,Westmont Medical,Healthcare,United States,21,2025-12-07 03:00:36,Starter
+1156,Oakhollow Logistics,Logistics,Germany,25,2025-12-07 12:53:16,Starter
+1157,Clearvale Goods,Retail,France,131,2025-12-08 09:18:46,Business
+1158,Brightspring Medical,Healthcare,United States,24,2025-12-08 23:33:29,Starter
+1159,Goldlight Components,Manufacturing,France,26,2025-12-08 16:03:50,Growth
+1160,Ashlane Institute,Education,Germany,97,2025-12-08 20:10:01,Growth
+1161,Silverbank Academy,Education,Canada,25,2025-12-09 16:01:59,Growth
+1162,Silvermark Components,Manufacturing,Canada,34,2025-12-09 18:19:06,Business
+1163,Meadowmont Data,Software,United States,9,2025-12-09 18:42:36,Starter
+1164,Clearpoint Clinics,Healthcare,Canada,6,2025-12-10 16:03:04,Starter
+1165,Granitepeak Stores,Retail,Germany,22,2025-12-10 12:39:37,Growth
+1166,Eastlane Capital,Financial Services,United States,7,2025-12-10 20:16:06,Starter
+1167,Foxhollow Education,Education,Netherlands,10,2025-12-10 15:55:13,Starter
+1168,Rivershore Stores,Retail,Germany,72,2025-12-11 06:25:07,Growth
+1169,Stormfern Institute,Education,Canada,76,2025-12-11 14:10:47,Business
+1170,Pinepoint Tutors,Education,United States,4,2025-12-11 19:02:41,Starter
+1171,Stormstone Goods,Retail,Australia,54,2025-12-11 01:07:08,Growth
+1172,Coppergrove Goods,Retail,United Kingdom,12,2025-12-11 22:41:25,Starter
+1173,Summitfield Technologies,Software,United States,3,2025-12-12 23:58:24,Starter
+1174,Westhaven Wealth,Financial Services,Canada,21,2025-12-13 05:47:09,Starter
+1175,Copperpoint Fabrication,Manufacturing,Germany,15,2025-12-12 21:31:43,Starter
+1176,Birchleaf Health,Healthcare,United States,42,2025-12-15 02:33:11,Growth
+1177,Stonepath Plastics,Manufacturing,Germany,38,2025-12-15 08:32:15,Starter
+1178,Maplepoint Labs,Software,Japan,11,2025-12-15 05:32:09,Starter
+1179,Northridge Works,Manufacturing,Germany,24,2025-12-15 14:58:18,Business
+1180,Ironridge Academy,Education,United Kingdom,18,2025-12-15 16:09:56,Starter
+1181,Granitehollow Medical,Healthcare,Germany,46,2025-12-16 06:47:08,Growth
+1182,Northpoint Software,Software,United States,75,2025-12-16 14:31:34,Growth
+1183,Redhill Health,Healthcare,France,5,2025-12-16 09:17:13,Starter
+1184,Stormridge Wealth,Financial Services,France,19,2025-12-16 12:39:12,Starter
+1185,Redcrest Labs,Software,Germany,11,2025-12-16 23:51:09,Growth
+1186,Bearfield Lending,Financial Services,United Kingdom,154,2025-12-17 14:17:58,Growth
+1187,Clearwick Data,Software,United Kingdom,8,2025-12-17 18:47:40,Starter
+1188,Stormhill Home,Retail,United States,35,2025-12-18 16:57:03,Growth
+1189,Greenpeak Technologies,Software,Canada,66,2025-12-19 20:41:22,Growth
+1190,Summitleaf Health,Healthcare,France,113,2025-12-19 13:48:09,Enterprise
+1191,Cedarbeam Logistics,Logistics,United States,15,2025-12-21 23:00:22,Starter
+1192,Bluelight Advisors,Financial Services,Ireland,103,2025-12-22 16:07:57,Business
+1193,Granitestone Medical,Healthcare,United States,50,2025-12-22 23:29:11,Growth
+1194,Birchport Medical,Healthcare,United States,52,2025-12-23 14:49:38,Growth
+1195,Hawkcrest Learning,Education,United States,15,2025-12-23 21:18:21,Starter
+1196,Eastpath Couriers,Logistics,Brazil,4,2025-12-23 23:40:08,Starter
+1197,Stoneport Schools,Education,United States,47,2025-12-24 02:58:11,Growth
+1198,Lakemont Data,Software,Japan,51,2025-12-24 03:15:36,Growth
+1199,Riverbeam Components,Manufacturing,Germany,12,2025-12-24 14:20:36,Starter
+1200,Birchpath Software,Software,United States,42,2025-12-25 11:52:38,Growth
