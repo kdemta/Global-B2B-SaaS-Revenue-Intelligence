@@ -1,0 +1,22 @@
+# Power BI implementation guide (not a PBIX)
+Import raw CSVs, set IDs to whole number, dates to datetime, amount/mrr numeric. Set accounts as one side of single-direction relationships to invoices, subscriptions, users and support_tickets. For subscriptions use one-to-many cardinality if needed to enforce single direction. Import processed cohort_retention as standalone table; use its own plan slicer. Add invoice month from invoice_date in Power Query. Add measures from the DAX section below individually.
+Page 1: MRR, ARR, ARPA, billings and collection cards; plan MRR bars, monthly billings line, country MRR bars.
+Page 2: historical churn by plan, cohort retention by plan (standalone visual), account counts and country slicer (not applicable to standalone cohort).
+Page 3: CSAT, resolution hours, resolution rate, open amount; ticket category and priority charts. Use accounts plan/country slicers for raw-table visuals. Format rates as percentages and currency USD. Compare unfiltered results to processed/kpis.csv. DAX and layout are supplied but not executed in Power BI.
+
+
+===== DAX MEASURES =====
+MRR = CALCULATE(SUM(subscriptions[mrr]), subscriptions[status] IN {"active", "past_due"})
+ARR = [MRR] * 12
+Accounts = DISTINCTCOUNT(accounts[account_id])
+Live Accounts = CALCULATE(DISTINCTCOUNT(subscriptions[account_id]), subscriptions[status] IN {"active", "past_due"})
+ARPA = DIVIDE([MRR], [Live Accounts])
+Historical Churn = DIVIDE(CALCULATE(COUNTROWS(subscriptions), subscriptions[status] = "churned"), COUNTROWS(subscriptions))
+Billings = CALCULATE(SUM(invoices[amount]), invoices[status] <> "void")
+Paid = CALCULATE(SUM(invoices[amount]), invoices[status] = "paid")
+Collection Rate = DIVIDE([Paid], [Billings])
+Open Amount = CALCULATE(SUM(invoices[amount]), invoices[status] = "open")
+CSAT = AVERAGE(support_tickets[satisfaction_score])
+Resolution Hours = AVERAGE(support_tickets[resolution_hours])
+Resolution Rate = DIVIDE(COUNT(support_tickets[resolved_at]), COUNTROWS(support_tickets))
+Cohort Billing Retention = DIVIDE(SUM(cohort_retention[dec]), SUM(cohort_retention[jan]))
